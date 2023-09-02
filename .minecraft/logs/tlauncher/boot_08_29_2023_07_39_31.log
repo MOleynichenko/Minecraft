@@ -1,0 +1,65 @@
+
+-------------------------------------------------------------------
+[Downloader2] Loaded configuration: normal
+[Bootstrapper] createLauncher
+[Bootstrapper] choose jvm:C:\Users\julia\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+[Bootstrapper] validate files
+[Bootstrapper] end validated files
+[Bootstrapper] Starting launcher...
+[Double running] clear time label
+> Loading configuration from file: C:\Users\julia\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+> [Configuration] Constant values: {}
+> [Loading] INITIALIZING
+> Starting TLauncher 2.89 RELEASE
+> For more information, visit https://tlauncher.org/
+> Startup time: 29.08.2023 11:39:38
+> Running folder C:\Users\julia\Desktop\pythone
+> ---
+> [Loading] LOADING_CONFIGURATION
+> Machine info: -------------------------------------------------------
+> Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 16297 MB RAM
+> java path=C:\Users\julia\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+> Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz
+>  Intel(R) HD Graphics 3000, Intel(R) HD Graphics Family, 1664 MB, NVIDIA GeForce GT 520MX, GeForce GT 520MX, 9127 MB
+> -------------------------------------------------------
+> Selected locale: ru
+> [Loading] LOADING_CONSOLE
+> [Downloader2] Loaded configuration: good
+> [Updater] Requesting an update...
+> [Updater] Requesting from: https://repo.tlauncher.org/update/lch/release_update_2.3.json
+> [Updater] Making request: https://repo.tlauncher.org/update/lch/release_update_2.3.json?version=2.89&client=0e25b944-8767-4c82-a3bd-e8bf34380bdf
+> [Updater] Request time: 597 ms
+> [Updater] Successfully requested from: https://repo.tlauncher.org/update/lch/release_update_2.3.json
+> [Browser] Loading resources...
+> [Browser] Cleaning up after loading:
+> Starting garbage collector: 44 / 197 MB
+> Garbage collector completed: 21 / 235 MB
+> [Loading] LOADING_MANAGERS
+> [LocalVersionList] Base directory: C:\Users\julia\AppData\Roaming\.minecraft
+> [ProfileManager] Refreshing profiles from: C:\Users\julia\AppData\Roaming\.minecraft\TlauncherProfiles.json
+> [AdvertisingStatusObserver]  started to get ad information
+> [GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+> [AdvertisingStatusObserver]  finished to get add information
+> save profiles
+> [Loading] LOADING_WINDOW
+> [JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/pages/index_ru.html
+> [Browser] Running in JavaFX Thread
+> [Browser] Preparing JavaFX...
+> [REPO][SERVER_LIST_REPO] Success: Reached the repo in 208 ms.
+> [Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+> [Browser] Initializing...
+> [Loading] PREPARING_MAINPANE
+> [JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/pages/index_ru.html during 1
+> [Browser@31973895] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/pages/index_ru.html"
+> [Browser] add listens into server_choose
+> [Browser] finished listens into server_choose
+> [Downloader2] Loaded configuration: good
+> [Loading] POSTINIT_GUI
+> [Frame] Packing main frame...
+> [Frame] Resizing main pane...
+> Updater is already closed. Showing up...
+> Visibility set.
+> [Loading] REFRESHING_INFO
+> Started! (9417 ms.)
+> [Loading] SUCCESS
+[Bootstrapper] I can be terminated now: 0

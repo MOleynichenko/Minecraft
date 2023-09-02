@@ -1,0 +1,70 @@
+[
+  {
+    "removedTime": [],
+    "recoveryServerTime": 12,
+    "maxRemovingCountServer": 2,
+    "addedDate": "2023-09-01T09:24:17+04:00",
+    "state": "active",
+    "locales": [
+      "ru",
+      "ua"
+    ],
+    "mojangAccount": false,
+    "remote": true,
+    "name": "DexLand.org",
+    "address": "mc.dexland.ort:25565",
+    "hideAddress": true,
+    "acceptTextures": 1
+  },
+  {
+    "removedTime": [],
+    "recoveryServerTime": 12,
+    "maxRemovingCountServer": 2,
+    "addedDate": "2023-08-30T18:54:33+04:00",
+    "state": "active",
+    "locales": [
+      "ru",
+      "ua"
+    ],
+    "mojangAccount": false,
+    "remote": true,
+    "name": "HypeMC.pro",
+    "address": "mc.hypemc.pro:25565",
+    "hideAddress": true,
+    "acceptTextures": 1
+  },
+  {
+    "removedTime": [],
+    "recoveryServerTime": 12,
+    "maxRemovingCountServer": 2,
+    "addedDate": "2023-08-29T18:56:34+04:00",
+    "state": "active",
+    "locales": [
+      "ru",
+      "ua"
+    ],
+    "mojangAccount": false,
+    "remote": true,
+    "name": "MineBlaze.net",
+    "address": "mc.mineblaze.net:25565",
+    "hideAddress": true,
+    "acceptTextures": 1
+  },
+  {
+    "removedTime": [],
+    "recoveryServerTime": 12,
+    "maxRemovingCountServer": 2,
+    "addedDate": "2023-08-28T13:39:41+04:00",
+    "state": "active",
+    "locales": [
+      "ru",
+      "ua"
+    ],
+    "mojangAccount": false,
+    "remote": true,
+    "name": "MusteryWorld.net",
+    "address": "mc.musteryworld.net:25565",
+    "hideAddress": true,
+    "acceptTextures": 1
+  }
+]

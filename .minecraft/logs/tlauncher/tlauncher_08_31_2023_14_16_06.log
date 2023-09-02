@@ -1,0 +1,1586 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.89 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 31.08.2023 14:16:08
+Running folder C:\Users\julia\Desktop\pythone
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 16297 MB RAM
+java path=C:\Users\julia\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz
+ Intel(R) HD Graphics 3000, Intel(R) HD Graphics Family, 1664 MB, NVIDIA GeForce GT 520MX, GeForce GT 520MX, 9127 MB
+-------------------------------------------------------
+Selected locale: ru
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: https://repo.tlauncher.org/update/lch/release_update_2.3.json
+[Updater] Making request: https://repo.tlauncher.org/update/lch/release_update_2.3.json?version=2.89&client=0e25b944-8767-4c82-a3bd-e8bf34380bdf
+[Browser] Loading resources...
+[Updater] Request time: 477 ms
+[Updater] Successfully requested from: https://repo.tlauncher.org/update/lch/release_update_2.3.json
+[Browser] Cleaning up after loading:
+Starting garbage collector: 45 / 196 MB
+Garbage collector completed: 21 / 233 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\julia\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\julia\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[AdvertisingStatusObserver]  finished to get add information
+save profiles
+[Loading] LOADING_WINDOW
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 199 ms.
+[Loading] PREPARING_MAINPANE
+[JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/pages/index_ru.html
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/pages/index_ru.html during 1
+[Browser@791661873] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/pages/index_ru.html"
+[Downloader2] Loaded configuration: good
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+Started! (6405 ms.)
+[Loading] SUCCESS
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new5/
+[TLauncher] show tlauncher!!!
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 135 ms.
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new5/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new5/skin/versions/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 110 ms.
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 427 ms.
+[ExtraVersionList] Got in 439 ms
+[SkinVersionList] Got in 467 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 552 ms.
+[OfficialVersionList] Got in 1092 ms
+[VersionManager] Versions has been refreshed (1372 ms)
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 101 ms.
+run server on  37842
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 279 ms.
+[Double running] clear time label
+AccountComboBox.validte pre game launch username Account{skinType=TLAUNCHER, displayName=BananaMax_Play, type=TLAUNCHER, accessToken=(not null), userid=BananaMax_Play, uuid=35a83d4f2af711eea9a3f02f74958d22, username=BananaMax_Play} TLAUNCHER
+[TlauncherAuthenticator] Staring to authenticate: Account{skinType=TLAUNCHER, displayName=BananaMax_Play, type=TLAUNCHER, accessToken=(not null), userid=BananaMax_Play, uuid=35a83d4f2af711eea9a3f02f74958d22, username=BananaMax_Play}
+[TlauncherAuthenticator] hasUsername: BananaMax_Play
+[TlauncherAuthenticator] hasPassword: false
+[TlauncherAuthenticator] hasAccessToken: true
+[TlauncherAuthenticator] Loggining in with token
+[TlauncherAuthenticator] Log in successful!
+[TlauncherAuthenticator] hasUUID: true
+[TlauncherAuthenticator] hasAccessToken: true
+[TlauncherAuthenticator] hasProfiles: true
+[TlauncherAuthenticator] hasProfile: true
+[TlauncherAuthenticator] hasProperties: true
+onAuthPassed
+saved account Account{skinType=TLAUNCHER, displayName=BananaMax_Play, type=TLAUNCHER, accessToken=(not null), userid=BananaMax_Play, uuid=35a83d4f2af711eea9a3f02f74958d22, username=BananaMax_Play}
+save profiles
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.89
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary C:\Users\julia\AppData\Roaming\.minecraft\mods\1.12.2-SecurityCraft-v1.9.7.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Chisel-MC1.12.2-1.0.2.45.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\chiselsandbits_1.12.2_14.32.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\CTM-MC1.12.2-1.0.2.31.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\CustomNPCs_1.12.2_05Jul20.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Decocraft-2.6.3.7_1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\device_mod_0.4.1_1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\ExtraBitManipulation_1.12.2_3.4.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Furniture-Mod-6.3.2-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Locks-1.12.2-3.0.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\malisiscore-1.12.2-6.4.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\malisisdoors-1.12.2-7.3.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\mw_1.11.7.7_mc1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\obfuscate-0.4.2-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\OptiFine-OptiFine-1.12.2_HD_U_G5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\pneumaticcraft_repressurized_1.12.2_0.11.15_398.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\PTRLib-1.0.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\redstonepaste_mc1.12_1.7.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\secretroomsmod_1.12.2_5.6.4.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\techguns_1.12.2_2.0.2.0_pre3.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\thutcore-1.12.2-5.19.8.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\thuttech-1.12.2-6.1.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\tlskincape_1.12.2-1.4.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\vehicle-mod-0.44.1-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\worldedit-mod-7.2.15-1.20.1.jar
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary C:\Users\julia\AppData\Roaming\.minecraft\mods\1.12.2-SecurityCraft-v1.9.7.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Chisel-MC1.12.2-1.0.2.45.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\chiselsandbits_1.12.2_14.32.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\CTM-MC1.12.2-1.0.2.31.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\CustomNPCs_1.12.2_05Jul20.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Decocraft-2.6.3.7_1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\device_mod_0.4.1_1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\ExtraBitManipulation_1.12.2_3.4.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Furniture-Mod-6.3.2-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Locks-1.12.2-3.0.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\malisiscore-1.12.2-6.4.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\malisisdoors-1.12.2-7.3.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\mw_1.11.7.7_mc1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\obfuscate-0.4.2-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\pneumaticcraft_repressurized_1.12.2_0.11.15_398.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\PTRLib-1.0.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\redstonepaste_mc1.12_1.7.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\secretroomsmod_1.12.2_5.6.4.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\techguns_1.12.2_2.0.2.0_pre3.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\thutcore-1.12.2-5.19.8.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\thuttech-1.12.2-6.1.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\vehicle-mod-0.44.1-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\worldedit-mod-7.2.15-1.20.1.jar
+[Launcher] Force update: false
+[Launcher] Selected version: ForgeOptiFine 1.12.2
+[Launcher] Selected account: Account{skinType=TLAUNCHER, displayName=BananaMax_Play, type=TLAUNCHER, accessToken=(not null), userid=BananaMax_Play, uuid=35a83d4f2af711eea9a3f02f74958d22, username=BananaMax_Play}
+[Launcher] Version sync info: VersionSyncInfo{id='ForgeOptiFine 1.12.2',
+local=CompleteVersion{id='ForgeOptiFine 1.12.2', time=Mon Dec 13 13:15:32 GMT+04:00 2021, release=Mon Sep 18 05:39:52 GMT+04:00 2017, type=modified, class=net.minecraft.launchwrapper.Launch, minimumVersion=18, assets='1.12', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.SkinVersionList@711e2660, libraries=[Library{name='net.minecraftforge:forge:1.12.2-14.23.5.2860', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm-debug-all:5.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.minecraft:launchwrapper:1.12', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.jline:jline:3.5.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.typesafe.akka:akka-actor_2.11:2.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.typesafe:config:1.2.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-actors-migration_2.11:1.1.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-compiler:2.11.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2_mc', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2_mc', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-library:2.11.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-parser-combinators_2.11:1.0.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-reflect:2.11.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-swing_2.11:1.0.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-xml_2.11:1.0.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='lzma:lzma:0.0.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='java3d:vecmath:1.5.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.trove4j:trove4j:3.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.maven:maven-artifact:3.5.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.15.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.15.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:patchy:1.3.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:librarylwjglopenal:20100824', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.9.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.10.22', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:7.1.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@2767a7ee, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@27caa844, packed='null'}, Library{name='net.java.jinput:jinput-platform:2.0.5', rules=null, natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@7d287c3, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@33186e33, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@295af769, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='ForgeOptiFine 1.12.2', time=Mon Dec 13 13:15:32 GMT+04:00 2021, release=Mon Sep 18 05:39:52 GMT+04:00 2017, type=modified, source=SKIN_VERSION_REPO, list=net.minecraft.launcher.updater.SkinVersionList@711e2660}, isInstalled=true, hasRemote=true, isUpToDate=true}
+[GsonUtil]  request to https://res.tlauncher.org/b/jvm/java_configuration.json
+[Launcher] Checking conditions...
+[Launcher] shaderpacks:lang,settings,shaders,world-1,world0,world1
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file C:\Users\julia\AppData\Roaming\.minecraft\assets\indexes\1.12.json
+[AssetsManager] Fast comparing: true
+[Launcher] finished comparing assets: 486 ms.
+[TLauncherManager] add required libraries: ForgeOptiFine 1.12.2
+[VersionManager] Required for version ForgeOptiFine 1.12.2: []
+[TLauncherManager] add required libraries: ForgeOptiFine 1.12.2
+used default java runtime
+Minecraft requires java version: 8, java path: C:\Users\julia\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe
+library will be replaced: com.mojang:authlib:1.5.25 -> org.tlauncher:authlib:1.6.251
+library will be replaced: com.mojang:patchy:1.3.9 -> org.tlauncher:patchy:1.3.9
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+backup world is active: true
+[Launcher] Getting Minecraft arguments...
+[Launcher] Full command: C:\Users\julia\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=C:\Users\julia\AppData\Roaming\.minecraft\versions\ForgeOptiFine 1.12.2\natives -cp C:\Users\julia\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2860\forge-1.12.2-14.23.5.2860.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-debug-all\5.2\asm-debug-all-5.2.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2_mc\scala-continuations-library_2.11-1.0.2_mc.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2_mc\scala-continuations-plugin_2.11.1-1.0.2_mc.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\tlauncher\patchy\1.3.9\patchy-1.3.9.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\tlauncher\authlib\1.6.251\authlib-1.6.251.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;C:\Users\julia\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Users\julia\AppData\Roaming\.minecraft\versions\ForgeOptiFine 1.12.2\ForgeOptiFine 1.12.2.jar -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.net.preferIPv4Stack=true -Dminecraft.applet.TargetDirectory=C:\Users\julia\AppData\Roaming\.minecraft -Dlog4j.configurationFile=C:\Users\julia\AppData\Roaming\.minecraft\assets\log_configs\client-1.12.xml net.minecraft.launchwrapper.Launch --username BananaMax_Play --version ForgeOptiFine 1.12.2 --gameDir C:\Users\julia\AppData\Roaming\.minecraft --assetsDir C:\Users\julia\AppData\Roaming\.minecraft\assets --assetIndex 1.12 --uuid 35a83d4f-2af7-11ee-a9a3-f02f74958d22 --accessToken null --userType mojang --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge --width 925 --height 530
+[Launcher] Launching Minecraft...
+I'm hiding!
+[TLauncherManager] mods after C:\Users\julia\AppData\Roaming\.minecraft\mods\1.12.2-SecurityCraft-v1.9.7.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Chisel-MC1.12.2-1.0.2.45.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\chiselsandbits_1.12.2_14.32.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\CTM-MC1.12.2-1.0.2.31.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\CustomNPCs_1.12.2_05Jul20.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Decocraft-2.6.3.7_1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\device_mod_0.4.1_1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\ExtraBitManipulation_1.12.2_3.4.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Furniture-Mod-6.3.2-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Locks-1.12.2-3.0.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\malisiscore-1.12.2-6.4.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\malisisdoors-1.12.2-7.3.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\mw_1.11.7.7_mc1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\obfuscate-0.4.2-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\OptiFine-OptiFine-1.12.2_HD_U_G5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\pneumaticcraft_repressurized_1.12.2_0.11.15_398.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\PTRLib-1.0.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\redstonepaste_mc1.12_1.7.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\secretroomsmod_1.12.2_5.6.4.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\techguns_1.12.2_2.0.2.0_pre3.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\thutcore-1.12.2-5.19.8.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\thuttech-1.12.2-6.1.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\tlskincape_1.12.2-1.4.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\vehicle-mod-0.44.1-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\worldedit-mod-7.2.15-1.20.1.jar
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat [Server(name=HypeMC.pro, address=mc.hypemc.pro:25565, ip=mc.hypemc.pro, port=25565, hideAddress=true, acceptTextures=1), Server(name=MineBlaze.net, address=mc.mineblaze.net:25565, ip=mc.mineblaze.net, port=25565, hideAddress=true, acceptTextures=1), Server(name=MusteryWorld.net, address=mc.musteryworld.net:25565, ip=mc.musteryworld.net, port=25565, hideAddress=false, acceptTextures=1), Server(name=SuperMine, address=supermc.su, ip=supermc.su, port=null, hideAddress=false, acceptTextures=0)]
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] Game skin type: TLAUNCHER
+[Launcher] Starting Minecraft ForgeOptiFine 1.12.2...
+[Launcher] Launching in: C:\Users\julia\AppData\Roaming\.minecraft
+Starting garbage collector: 214 / 383 MB
+Garbage collector completed: 49 / 379 MB
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+[14:18:27] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:18:43] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:18:43] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:18:46] [main/INFO]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[14:18:46] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\julia\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy
+[14:18:73] [main/INFO]: Searching C:\Users\julia\AppData\Roaming\.minecraft\mods for mods
+[14:18:76] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from 1.12.2-SecurityCraft-v1.9.7.jar
+[14:18:78] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:18:79] [main/WARN]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:18:79] [main/WARN]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[14:18:80] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Locks-1.12.2-3.0.0.jar
+[14:18:80] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from malisiscore-1.12.2-6.4.0.jar
+[14:18:81] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in mw_1.11.7.7_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:18:83] [main/WARN]: The coremod weaponlib (com.vicmatskiv.weaponlib.core.WeaponlibCorePlugin) is not signed!
+[14:18:83] [main/WARN]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[14:18:83] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-OptiFine-1.12.2_HD_U_G5.jar
+[14:18:85] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in redstonepaste_mc1.12_1.7.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:18:85] [main/WARN]: The coremod net.fybertech.nwr.NWRTweak does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:18:85] [main/WARN]: The coremod NWRTweak (net.fybertech.nwr.NWRTweak) is not signed!
+[14:18:85] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in secretroomsmod_1.12.2_5.6.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:18:86] [main/WARN]: The coremod SecretRoomsMod-Core (com.wynprice.secretroomsmod.core.SecretRoomsCore) is not signed!
+2023-08-31 10:18:50,949 main WARN Error parsing URI C:\Users\julia\AppData\Roaming\.minecraft\assets\log_configs\client-1.12.xml
+[14:18:03] [main/INFO]: [SecretRoomsMod-Core] Core loaded
+[14:18:04] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in techguns_1.12.2_2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:18:04] [main/WARN]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
+[14:18:06] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in tlskincape_1.12.2-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:18:16] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:18:17] [main/INFO]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[14:18:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/C:/Users/julia/AppData/Roaming/.minecraft/mods/1.12.2-SecurityCraft-v1.9.7.jar Service=LaunchWrapper Env=CLIENT
+[14:18:64] [main/DEBUG]: Instantiating coremod class SecurityCraftLoadingPlugin
+[14:18:65] [main/DEBUG]: The coremod net.geforcemods.securitycraft.SecurityCraftLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[14:18:65] [main/WARN]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[14:18:68] [main/INFO]: Compatibility level set to JAVA_8
+[14:18:68] [main/DEBUG]: Enqueued coremod SecurityCraftLoadingPlugin
+[14:18:79] [main/DEBUG]: Instantiating coremod class MixinLoader
+[14:18:79] [main/DEBUG]: The coremod melonslise.locks.mixin.MixinLoader requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[14:18:79] [main/WARN]: The coremod MixinLoader (melonslise.locks.mixin.MixinLoader) is not signed!
+[14:18:80] [main/DEBUG]: Enqueued coremod MixinLoader
+[14:18:80] [main/DEBUG]: Instantiating coremod class MalisisCorePlugin
+[14:18:80] [main/WARN]: The coremod net.malisis.core.asm.MalisisCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:18:80] [main/WARN]: The coremod MalisisCorePlugin (net.malisis.core.asm.MalisisCorePlugin) is not signed!
+[14:18:81] [main/DEBUG]: Enqueued coremod MalisisCorePlugin
+[14:18:81] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[14:18:81] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[14:18:81] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[14:18:82] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:18:82] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:18:82] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:18:82] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[14:18:83] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[14:18:83] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[14:18:83] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
+[14:18:83] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: C:\Users\julia\AppData\Roaming\.minecraft\mods\OptiFine-OptiFine-1.12.2_HD_U_G5.jar
+[14:18:84] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:18:84] [main/DEBUG]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[14:18:84] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[14:18:01] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[14:18:02] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[14:18:04] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[14:18:05] [main/DEBUG]: Injection complete
+[14:18:05] [main/DEBUG]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[14:18:05] [main/DEBUG]: Running coremod plugin FMLCorePlugin
+[14:18:74] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[14:18:88] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[14:18:89] [main/DEBUG]: Coremod plugin class FMLCorePlugin run successfully
+[14:18:89] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:18:89] [main/DEBUG]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[14:18:89] [main/DEBUG]: Injection complete
+[14:18:89] [main/DEBUG]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[14:18:90] [main/DEBUG]: Running coremod plugin FMLForgePlugin
+[14:18:90] [main/DEBUG]: Coremod plugin class FMLForgePlugin run successfully
+[14:18:90] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:18:90] [main/DEBUG]: Injecting coremod weaponlib \{com.vicmatskiv.weaponlib.core.WeaponlibCorePlugin\} class transformers
+[14:18:90] [main/TRACE]: Registering transformer com.vicmatskiv.weaponlib.core.WeaponlibClassTransformer
+[14:18:92] [main/DEBUG]: Injection complete
+[14:18:92] [main/DEBUG]: Running coremod plugin for weaponlib \{com.vicmatskiv.weaponlib.core.WeaponlibCorePlugin\}
+[14:18:92] [main/DEBUG]: Running coremod plugin weaponlib
+[14:18:92] [main/DEBUG]: Coremod plugin class WeaponlibCorePlugin run successfully
+[14:18:92] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:18:93] [main/DEBUG]: Injecting coremod TLSkinCapeHookLoader \{org.tlauncher.skin.cape.asm.TLSkinCapeHookLoader\} class transformers
+[14:18:93] [main/TRACE]: Registering transformer gloomyfolken.hooklib.minecraft.PrimaryClassTransformer
+[14:18:97] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container gloomyfolken.hooklib.minecraft.SecondaryTransformerHook
+[14:18:98] [main/INFO]: [HOOKLIB]  Obfuscated: true
+[14:18:04] [main/DEBUG]: Injection complete
+[14:18:05] [main/DEBUG]: Running coremod plugin for TLSkinCapeHookLoader \{org.tlauncher.skin.cape.asm.TLSkinCapeHookLoader\}
+[14:18:05] [main/DEBUG]: Running coremod plugin TLSkinCapeHookLoader
+[14:18:06] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container org.tlauncher.skin.cape.asm.TLSkinCapeHooks
+[14:18:09] [main/DEBUG]: Coremod plugin class TLSkinCapeHookLoader run successfully
+[14:18:09] [main/INFO]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[14:18:11] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@3fbfbf84
+[14:18:12] [main/DEBUG]: Injecting coremod SecurityCraftLoadingPlugin \{net.geforcemods.securitycraft.SecurityCraftLoadingPlugin\} class transformers
+[14:18:12] [main/DEBUG]: Injection complete
+[14:18:12] [main/DEBUG]: Running coremod plugin for SecurityCraftLoadingPlugin \{net.geforcemods.securitycraft.SecurityCraftLoadingPlugin\}
+[14:18:12] [main/DEBUG]: Running coremod plugin SecurityCraftLoadingPlugin
+[14:18:13] [main/DEBUG]: Coremod plugin class SecurityCraftLoadingPlugin run successfully
+[14:18:13] [main/DEBUG]: Injecting coremod MixinLoader \{melonslise.locks.mixin.MixinLoader\} class transformers
+[14:18:13] [main/DEBUG]: Injection complete
+[14:18:15] [main/DEBUG]: Running coremod plugin for MixinLoader \{melonslise.locks.mixin.MixinLoader\}
+[14:18:16] [main/DEBUG]: Running coremod plugin MixinLoader
+[14:18:16] [main/DEBUG]: Coremod plugin class MixinLoader run successfully
+[14:18:19] [main/DEBUG]: Injecting coremod MalisisCorePlugin \{net.malisis.core.asm.MalisisCorePlugin\} class transformers
+[14:18:19] [main/DEBUG]: Injection complete
+[14:18:19] [main/DEBUG]: Running coremod plugin for MalisisCorePlugin \{net.malisis.core.asm.MalisisCorePlugin\}
+[14:18:20] [main/DEBUG]: Running coremod plugin MalisisCorePlugin
+[14:18:21] [main/DEBUG]: Coremod plugin class MalisisCorePlugin run successfully
+[14:18:21] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:18:27] [main/DEBUG]: Validating minecraft
+[14:18:29] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraftforge.fml.common.Loader
+[14:18:45] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraftforge.fml.common.Loader#injectData([Ljava/lang/Object;)
+[14:18:69] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 13 ms
+[14:18:12] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:18:14] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:18:15] [main/INFO]: [SecretRoomsTransformer] Registered
+[14:18:16] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:18:18] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:18:19] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:18:21] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:18:21] [main/INFO]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[14:18:21] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:18:21] [main/INFO]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[14:18:21] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[14:18:17] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[14:18:18] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[14:18:34] [main/ERROR]: Classloader restrictions [PACKAGE_TRANSFORMER_EXCLUSION] encountered loading mixins.malisiscore.core.json:MixinClientNotif$MixinWorld, name: net.malisis.core.asm.mixin.core.MixinClientNotif$MixinWorld
+[14:18:37] [main/ERROR]: Classloader restrictions [PACKAGE_TRANSFORMER_EXCLUSION] encountered loading mixins.malisiscore.core.json:MixinClientNotif$MixinWorldServer, name: net.malisis.core.asm.mixin.core.MixinClientNotif$MixinWorldServer
+[14:18:37] [main/ERROR]: Classloader restrictions [PACKAGE_TRANSFORMER_EXCLUSION] encountered loading mixins.malisiscore.core.json:MixinChunk, name: net.malisis.core.asm.mixin.core.MixinChunk
+[14:18:37] [main/ERROR]: Classloader restrictions [PACKAGE_TRANSFORMER_EXCLUSION] encountered loading mixins.malisiscore.core.json:MixinChunkCollision$MixinItemBlock, name: net.malisis.core.asm.mixin.core.MixinChunkCollision$MixinItemBlock
+[14:18:37] [main/ERROR]: Classloader restrictions [PACKAGE_TRANSFORMER_EXCLUSION] encountered loading mixins.malisiscore.core.json:MixinChunkCollision$MixinNetHandlerPlayServer, name: net.malisis.core.asm.mixin.core.MixinChunkCollision$MixinNetHandlerPlayServer
+[14:18:38] [main/ERROR]: Classloader restrictions [PACKAGE_TRANSFORMER_EXCLUSION] encountered loading mixins.malisiscore.core.json:MixinChunkCollision$MixinWorld, name: net.malisis.core.asm.mixin.core.MixinChunkCollision$MixinWorld
+[14:18:50] [main/ERROR]: Classloader restrictions [PACKAGE_TRANSFORMER_EXCLUSION] encountered loading mixins.malisiscore.core.json:client.MixinTextureMap, name: net.malisis.core.asm.mixin.core.client.MixinTextureMap
+[14:18:51] [main/ERROR]: Classloader restrictions [PACKAGE_TRANSFORMER_EXCLUSION] encountered loading mixins.malisiscore.core.json:client.MixinMalisisRenderer$MixinBlockRendererDispatcher, name: net.malisis.core.asm.mixin.core.client.MixinMalisisRenderer$MixinBlockRendererDispatcher
+[14:18:51] [main/ERROR]: Classloader restrictions [PACKAGE_TRANSFORMER_EXCLUSION] encountered loading mixins.malisiscore.core.json:client.MixinMalisisRenderer$MixinRenderItem, name: net.malisis.core.asm.mixin.core.client.MixinMalisisRenderer$MixinRenderItem
+[14:18:51] [main/ERROR]: Classloader restrictions [PACKAGE_TRANSFORMER_EXCLUSION] encountered loading mixins.malisiscore.core.json:client.MixinMalisisRenderer$MixinBlockModelShapes, name: net.malisis.core.asm.mixin.core.client.MixinMalisisRenderer$MixinBlockModelShapes
+[14:18:53] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureMap], Method [registerSprite]
+[14:18:53] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureMap Finished.
+[14:18:54] [main/INFO]: [SecretRoomsTransformer] Running Transform on net.minecraft.client.renderer.BlockRendererDispatcher
+[14:18:54] [main/INFO]: [SecretRoomsTransformer] Finished Transform on: net.minecraft.client.renderer.BlockRendererDispatcher
+[14:18:54] [main/INFO]: Processing net.minecraft.client.renderer.BlockRendererDispatcher
+[14:18:54] [main/INFO]: renderBlockDamage patched
+[14:18:54] [main/INFO]: renderBlock patched
+[14:18:61] [main/INFO]: Applying ASM to RenderItem
+[14:18:62] [main/INFO]: Successfully patched RenderItem
+[14:18:62] [main/INFO]: [techguns.core.TechgunsASMTransformer:patchRenderItem_patchMethodRenderModel:482]: Successfully patched 2 arg RenderItem.RenderModel with ASM
+[14:18:62] [main/INFO]: [techguns.core.TechgunsASMTransformer:patchRenderItem_patchMethodRenderItem2:370]: Successfully patched 2 arg RenderItem.RenderItem with ASM
+[14:18:62] [main/INFO]: [techguns.core.TechgunsASMTransformer:patchRenderItem_patchMethodRenderItem:301]: Successfully patched 4 arg RenderItem.RenderItem with ASM
+[14:18:62] [main/INFO]: [techguns.core.TechgunsASMTransformer:patchRenderItem_patchMethodRenderItemGUI:425]: Successfully patched RenderItem.renderItemModelIntoGUI with ASM
+[14:18:63] [main/INFO]: A re-entrant transformer '$wrapper.techguns.core.TechgunsASMTransformer' was detected and will no longer process meta class data
+[14:18:73] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[14:18:31] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.client.entity.AbstractClientPlayer
+[14:18:32] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationSkin()Lnet/minecraft/util/ResourceLocation;
+[14:18:32] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationCape()Lnet/minecraft/util/ResourceLocation;
+[14:18:32] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getSkinType()
+[14:18:38] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.entity.player.EntityPlayer
+[14:18:45] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.entity.player.EntityPlayer#isWearing(Lnet/minecraft/entity/player/EnumPlayerModelParts;)
+[14:19:35] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraftforge.client.ForgeHooksClient], Method [getDamageModel]
+[14:19:35] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraftforge.client.ForgeHooksClient Finished.
+[14:19:77] [Client thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[14:19:78] [Client thread/INFO]: Setting user: BananaMax_Play
+[14:19:98] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[14:19:99] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[14:19:82] [Client thread/INFO]: [SecretRoomsTransformer] Running Transform on net.minecraft.block.state.BlockStateContainer$StateImplementation
+[14:19:82] [Client thread/INFO]: [SecretRoomsTransformer] Finished Transform on: net.minecraft.block.state.BlockStateContainer$StateImplementation
+[14:19:28] [Client thread/INFO]: [SecretRoomsTransformer] Running Transform on net.minecraft.block.BlockBreakable
+[14:19:28] [Client thread/INFO]: [SecretRoomsTransformer] Finished Transform on: net.minecraft.block.BlockBreakable
+[14:19:25] [Client thread/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.entity.player.EntityPlayer
+[14:19:95] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[14:19:15] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[14:19:44] [Client thread/WARN]: Skipping bad option: lastServer:
+[14:19:47] [Client thread/INFO]: LWJGL Version: 2.9.4
+[14:19:10] [Client thread/INFO]: [OptiFine] 
+[14:19:10] [Client thread/INFO]: [OptiFine] OptiFine_1.12.2_HD_U_G5
+[14:19:10] [Client thread/INFO]: [OptiFine] Build: 20210124-142939
+[14:19:10] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[14:19:10] [Client thread/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[14:19:10] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[14:19:10] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[14:19:11] [Client thread/INFO]: [OptiFine] OpenGL: Intel(R) HD Graphics 3000, version 3.1.0 - Build 9.17.10.4459, Intel
+[14:19:11] [Client thread/INFO]: [OptiFine] OpenGL Version: 3.1.0
+[14:19:11] [Client thread/INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[14:19:18] [Client thread/INFO]: [OptiFine] Maximum texture size: 8192x8192
+[14:19:18] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[14:19:36] [Client thread/INFO]: [Shaders] OpenGL Version: 3.1.0 - Build 9.17.10.4459
+[14:19:36] [Client thread/INFO]: [Shaders] Vendor:  Intel
+[14:19:36] [Client thread/INFO]: [Shaders] Renderer: Intel(R) HD Graphics 3000
+[14:19:37] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  -  - 
+[14:19:37] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[14:19:37] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[14:19:37] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 16
+[14:19:37] [Client thread/INFO]: [Shaders] Load shaders configuration.
+[14:19:38] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[14:19:44] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+[14:19:44] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[14:19:44] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[14:19:80] [VersionCheck/INFO]: [OptiFine] Version found: G5
+[14:19:99] [Client thread/INFO]: Forge Mod Loader has detected optifine OptiFine_1.12.2_HD_U_G5, enabling compatibility features
+[14:19:09] [Client thread/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1073438192 bytes (1023 MB) / 1509949440 bytes (1440 MB) up to 3154116608 bytes (3008 MB)
+	JVM Flags: 7 total; -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+MalisisCorePlugin (malisiscore-1.12.2-6.4.0.jar)
+  
+weaponlib (mw_1.11.7.7_mc1.12.2.jar)
+  com.vicmatskiv.weaponlib.core.WeaponlibClassTransformer
+SecurityCraftLoadingPlugin (1.12.2-SecurityCraft-v1.9.7.jar)
+  
+MixinLoader (Locks-1.12.2-3.0.0.jar)
+  
+Techguns Core (techguns_1.12.2_2.0.2.0_pre3.2.jar)
+  techguns.core.TechgunsASMTransformer
+NWRTweak (redstonepaste_mc1.12_1.7.5.jar)
+  net.fybertech.nwr.NWRTransformer
+ObfuscatePlugin (obfuscate-0.4.2-1.12.2.jar)
+  com.mrcrayfish.obfuscate.asm.ObfuscateTransformer
+CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+TLSkinCapeHookLoader (tlskincape_1.12.2-1.4.jar)
+  gloomyfolken.hooklib.minecraft.PrimaryClassTransformer
+SecretRoomsMod-Core (secretroomsmod_1.12.2_5.6.4.jar)
+  com.wynprice.secretroomsmod.core.SecretRoomsTransformer
+	GL info: ' Vendor: 'Intel' Version: '3.1.0 - Build 9.17.10.4459' Renderer: 'Intel(R) HD Graphics 3000'
+[14:19:22] [Client thread/INFO]: MinecraftForge v14.23.5.2860 Initialized
+[14:19:25] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[14:19:31] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[14:19:40] [Client thread/INFO]: Replaced 1227 ore ingredients
+[14:19:10] [Client thread/INFO]: Searching C:\Users\julia\AppData\Roaming\.minecraft\mods for mods
+[14:19:91] [Client thread/WARN]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.7
+[14:19:45] [Thread-3/INFO]: Using alternative sync timing : 200 frames of Display.update took 3253717200 nanos
+[14:19:02] [Client thread/ERROR]: Unable to read a class file correctly
+java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439)
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57)
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102)
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77)
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47)
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74)
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93)
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568)
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:232)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+[14:19:05] [Client thread/ERROR]: There was a problem reading the entry com/sk89q/worldedit/fabric/CommandWrapper.class in the jar C:\Users\julia\AppData\Roaming\.minecraft\mods\worldedit-mod-7.2.15-1.20.1.jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63)
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102)
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77)
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47)
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74)
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93)
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568)
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:232)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439)
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57)
+	... 17 more
+
+[14:19:06] [Client thread/WARN]: Zip file worldedit-mod-7.2.15-1.20.1.jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63)
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102)
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77)
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47)
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74)
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93)
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568)
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:232)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439)
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57)
+	... 17 more
+
+[14:19:09] [Client thread/INFO]: Forge Mod Loader has identified 30 mods to load
+[14:19:23] [Client thread/INFO]: FML has found a non-mod file worldedit-mod-7.2.15-1.20.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[14:19:05] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, obfuscate, srm-hooks, techguns_core, securitycraft, chisel, chiselsandbits, ctm, customnpcs, props, cdm, extrabitmanipulation, cfm, locks, malisiscore, malisisdoors, mw, pneumaticcraft, ptrmodellib, redstonepaste, secretroomsmod, techguns, thutcore_compat, thutcore, thuttech, tlauncher_custom_cape_skin, vehicle] at CLIENT
+[14:19:05] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, obfuscate, srm-hooks, techguns_core, securitycraft, chisel, chiselsandbits, ctm, customnpcs, props, cdm, extrabitmanipulation, cfm, locks, malisiscore, malisisdoors, mw, pneumaticcraft, ptrmodellib, redstonepaste, secretroomsmod, techguns, thutcore_compat, thutcore, thuttech, tlauncher_custom_cape_skin, vehicle] at SERVER
+[14:19:82] [Client thread/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.client.entity.AbstractClientPlayer
+[14:19:83] [Client thread/INFO]: [techguns.core.TechgunsASMTransformer:patchRenderEntityItem:169]: Successfully patched RenderEntityItem with ASM
+[14:19:84] [Client thread/INFO]: [techguns.core.TechgunsASMTransformer:patchRenderEntityItem:169]: Successfully patched RenderEntityItem with ASM
+[14:19:71] [Client thread/INFO]: [techguns.core.TechgunsASMTransformer:patchItemRenderer_updateEquippedItem:530]: Successfully patched ItemRenderer.updateEquippedItem with ASM
+[14:19:73] [Client thread/INFO]: Applying ASM to RenderItem
+[14:19:73] [Client thread/INFO]: Successfully patched RenderItem
+[14:19:74] [Client thread/INFO]: [techguns.core.TechgunsASMTransformer:patchRenderItem_patchMethodRenderModel:482]: Successfully patched 2 arg RenderItem.RenderModel with ASM
+[14:19:75] [Client thread/INFO]: [techguns.core.TechgunsASMTransformer:patchRenderItem_patchMethodRenderItem2:370]: Successfully patched 2 arg RenderItem.RenderItem with ASM
+[14:19:75] [Client thread/INFO]: [techguns.core.TechgunsASMTransformer:patchRenderItem_patchMethodRenderItem:301]: Successfully patched 4 arg RenderItem.RenderItem with ASM
+[14:19:75] [Client thread/INFO]: [techguns.core.TechgunsASMTransformer:patchRenderItem_patchMethodRenderItemGUI:425]: Successfully patched RenderItem.renderItemModelIntoGUI with ASM
+[14:19:89] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureMap], Method [registerSprite]
+[14:19:89] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureMap Finished.
+[14:19:93] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureAtlasSprite], Method [updateAnimationInterpolated]
+[14:19:94] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureAtlasSprite Finished.
+[14:19:97] [Client thread/WARN]: Injection warning: LVT in net/minecraft/client/renderer/texture/TextureMap::func_110571_b(Lnet/minecraft/client/resources/IResourceManager;)V has incompatible changes at opcode 1113 in callback mixins.malisiscore.core.json:client.MixinTextureMap->@Inject::onLoadTextureAtlas(Lnet/minecraft/client/resources/IResourceManager;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;ILnet/minecraft/client/renderer/texture/Stitcher;IILnet/minecraftforge/fml/common/ProgressManager$ProgressBar;)V.
+ Expected: [I, Lnet/minecraft/client/renderer/texture/Stitcher;, I, I, Lnet/minecraftforge/fml/common/ProgressManager$ProgressBar;]
+    Found: [I, Lnet/minecraft/client/renderer/texture/Stitcher;, I, I, I]
+Available: [I, Lnet/minecraft/client/renderer/texture/Stitcher;, I, I, I, I, I, Ljava/util/List;, I, I, Ljava/util/Map;, I, I, Ljava/util/List;, Ljava/util/Iterator;, Lnet/minecraft/client/renderer/texture/TextureAtlasSprite;, Lnet/minecraft/client/renderer/texture/TextureAtlasSprite;, I, I, Ljava/lang/Exception;]
+[14:19:57] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SecurityCraft, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisels & Bits, FMLFileResourcePack:CTM, FMLFileResourcePack:CustomNPCs, FMLFileResourcePack:Decocraft, FMLFileResourcePack:MrCrayfish's Device Mod, FMLFileResourcePack:Extra Bit Manipulation, FMLFileResourcePack:MrCrayfish's Furniture Mod, FMLFileResourcePack:Locks, FMLFileResourcePack:MalisisCore, FMLFileResourcePack:MalisisDoors, FMLFileResourcePack:Modern Warfare, FMLFileResourcePack:PneumaticCraft: Repressurized, FMLFileResourcePack:ptrmodellib, FMLFileResourcePack:Redstone Paste, FMLFileResourcePack:Secret Rooms 5, FMLFileResourcePack:Techguns, FMLFileResourcePack:ThutCore Compat, FMLFileResourcePack:Thut Core, FMLFileResourcePack:Thut's Elevators, FMLFileResourcePack:TLSkinCape, FMLFileResourcePack:MrCrayfish's Vehicle Mod
+[14:19:82] [Client thread/INFO]: [SecretRoomsTransformer] Running Transform on net.minecraft.client.renderer.BlockRendererDispatcher
+[14:19:82] [Client thread/INFO]: [SecretRoomsTransformer] Finished Transform on: net.minecraft.client.renderer.BlockRendererDispatcher
+[14:19:82] [Client thread/INFO]: Processing net.minecraft.client.renderer.BlockRendererDispatcher
+[14:19:82] [Client thread/INFO]: renderBlockDamage patched
+[14:19:82] [Client thread/INFO]: renderBlock patched
+[14:19:15] [Client thread/INFO]: Processing ObjectHolder annotations
+[14:19:24] [Client thread/WARN]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[14:19:42] [Client thread/INFO]: Found 1494 ObjectHolder annotations
+[14:19:42] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[14:19:43] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[14:19:57] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[14:19:58] [Forge Version Check/INFO]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[14:19:61] [Client thread/INFO]: Successfully injected SyncedPlayerData capability
+[14:19:96] [Forge Version Check/INFO]: [securitycraft] Found status: UP_TO_DATE Target: null
+[14:19:97] [Forge Version Check/INFO]: [pneumaticcraft] Starting version check at https://raw.github.com/TeamPneumatic/pnc-repressurized/master/release_info.json
+[14:19:47] [Forge Version Check/INFO]: [pneumaticcraft] Found status: AHEAD Target: null
+[14:19:47] [Forge Version Check/INFO]: [thutcore] Starting version check at https://raw.githubusercontent.com/Thutmose/Thut/master/ThutCore/versions.json
+[14:19:53] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureAtlasSprite], Method [updateAnimationInterpolated]
+[14:19:53] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureAtlasSprite Finished.
+[14:19:54] [Forge Version Check/INFO]: [thutcore] Found status: BETA Target: null
+[14:19:54] [Forge Version Check/INFO]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
+[14:19:60] [Forge Version Check/INFO]: [techguns] Found status: AHEAD Target: null
+[14:19:60] [Forge Version Check/INFO]: [extrabitmanipulation] Starting version check at https://github.com/Phylogeny/ExtraBitManipulation/raw/1.11/update.json
+[14:19:60] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper], Method [getTextures]
+[14:19:61] [Client thread/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper Finished.
+[14:19:70] [Client thread/INFO]: Applying holder lookups
+[14:19:71] [Client thread/INFO]: Holder lookups applied
+[14:19:74] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[14:19:99] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitychiseled`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[14:19:99] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitychiseled.tesr`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[14:19:01] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitybittank`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[14:19:38] [Forge Version Check/INFO]: [secretroomsmod] Starting version check at http://www.wynprice.com/update_jsons/secretroomsmod.json
+[14:19:16] [Client thread/WARN]: Skipping bad option: lastServer:
+[14:19:38] [Client thread/INFO]: Original locale was , switching to Locale.US
+[14:19:38] [Client thread/INFO]: Locale is now en_US
+[14:19:41] [Client thread/INFO]: Locale was restored to 
+[14:20:25] [Client thread/INFO]: Total mipmap : 5930 ms
+[14:20:88] [Client thread/INFO]: Registering CloseInventoryMessage for Packet with discriminator 1 in channel malisiscore
+[14:20:88] [Client thread/INFO]: Registering InventoryActionMessage for Packet with discriminator 2 in channel malisiscore
+[14:20:89] [Client thread/INFO]: Registering OpenInventoryMessage for Packet with discriminator 3 in channel malisiscore
+[14:20:89] [Client thread/INFO]: Registering UpdateInventorySlotsMessage for Packet with discriminator 4 in channel malisiscore
+[14:20:90] [Client thread/INFO]: Registering DirectMessage for Packet with discriminator 5 in channel malisiscore
+[14:20:00] [Client thread/INFO]: Registering BlockDataMessage for Packet with discriminator 6 in channel malisiscore
+[14:20:03] [Client thread/INFO]: Registering ChunkBlockMessage for Packet with discriminator 7 in channel malisiscore
+[14:20:08] [Client thread/INFO]: Registering NeighborChangedMessage for Packet with discriminator 8 in channel malisiscore
+[14:20:24] [Client thread/INFO]: Registering SyncerMessage for Packet with discriminator 9 in channel malisiscore
+[14:20:25] [Client thread/INFO]: Registering DigicodeMessage for Packet with discriminator 1 in channel malisisdoors
+[14:20:26] [Client thread/INFO]: Registering DoorFactoryMessage for Packet with discriminator 2 in channel malisisdoors
+[14:20:61] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `customdoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:62] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `saloondoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:69] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `verticalhatchtileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:72] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `garagedoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:75] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `door3x3`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:75] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `bigdoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:77] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `rustyhatchtileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:79] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `doorfactorytileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:81] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `forcefieldtileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `doortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `trapdoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `fencegatetileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:57] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:299]: !!!No recipe defined for attachment M6Gscope
+[14:20:57] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:299]: !!!No recipe defined for attachment MA5Dcover
+[14:20:58] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:299]: !!!No recipe defined for attachment Maxim9cover
+[14:20:63] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:299]: !!!No recipe defined for attachment DMRscope
+[14:20:63] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:299]: !!!No recipe defined for attachment BR55scope
+[14:20:66] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:299]: !!!No recipe defined for attachment G36Scope
+[14:20:67] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:299]: !!!No recipe defined for attachment AUGScope
+[14:20:72] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:299]: !!!No recipe defined for attachment SRS99S5scope
+[14:20:91] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:299]: !!!No recipe defined for attachment PythonClip
+[14:20:96] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:299]: !!!No recipe defined for attachment MA37Mag
+[14:20:96] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:299]: !!!No recipe defined for attachment MA5Dmag
+[14:20:97] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:299]: !!!No recipe defined for attachment BR55mag
+[14:20:97] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:299]: !!!No recipe defined for attachment M395Bmag
+[14:20:97] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:299]: !!!No recipe defined for attachment SRS99S5mag
+[14:20:08] [Client thread/INFO]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:299]: !!!No recipe defined for attachment M6Gmag
+[14:20:78] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:747]: !!!No recipe defined for weapon MA37
+[14:20:01] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:747]: !!!No recipe defined for weapon MA5D
+[14:20:11] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:747]: !!!No recipe defined for weapon M395B
+[14:20:21] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:747]: !!!No recipe defined for weapon SRS99S5
+[14:20:37] [Client thread/INFO]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:747]: !!!No recipe defined for weapon BR55
+[14:20:99] [Client thread/INFO]: Thirdparty integration activated for [toughasnails, theoneprobe, immersiveengineering, baubles, computercraft, waila, botania, crafttweaker, cofhcore, thaumcraft, enderio, immersivepetroleum, mekanism, igwmod, opencomputers, ic2, patchouli, buildcraftcore, forestry, appliedenergistics2]
+[14:20:72] [Client thread/INFO]: OBJLoader: Domain pneumaticcraft has been added.
+[14:20:43] [Client thread/INFO]: OBJLoader: Domain techguns has been added.
+[14:20:69] [Client thread/INFO]: Loading blocks...
+[14:20:78] [Client thread/INFO]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[14:20:81] [Client thread/INFO]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[14:20:85] [Client thread/INFO]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[14:20:86] [Client thread/INFO]: 72 Feature's blocks loaded.
+[14:20:86] [Client thread/INFO]: Loading Tile Entities...
+[14:20:86] [Client thread/INFO]: Tile Entities loaded.
+[14:20:86] [Client thread/INFO]: Registering blocks
+[14:20:89] [Client thread/INFO]: registered block for fluid: diesel
+[14:20:89] [Client thread/INFO]: registered block for fluid: oil
+[14:20:89] [Client thread/INFO]: registered block for fluid: fuel
+[14:20:89] [Client thread/INFO]: registered block for fluid: kerosene
+[14:20:89] [Client thread/INFO]: registered block for fluid: plastic
+[14:20:89] [Client thread/INFO]: registered block for fluid: etchacid
+[14:20:89] [Client thread/INFO]: registered block for fluid: lpg
+[14:20:89] [Client thread/INFO]: registered block for fluid: lubricant
+[14:20:26] [Client thread/INFO]: Enabling support for: malisisdoors
+[14:20:46] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileredstoneblock`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:47] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileblockanvil`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:47] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilemailbox`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:47] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilewaypoint`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:49] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripted`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:50] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripteddoor`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcbuilder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpccopy`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:52] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcborder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:58] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `redstonepastete`, expected `redstonepaste`. This could be a intended override, but in most cases indicates a broken mod.
+[14:20:58] [Client thread/INFO]: Applying holder lookups
+[14:20:59] [Client thread/INFO]: Holder lookups applied
+[14:20:62] [Client thread/INFO]: Loading items...
+[14:20:62] [Client thread/INFO]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[14:20:62] [Client thread/INFO]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[14:20:62] [Client thread/INFO]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[14:20:65] [Client thread/INFO]: 72 Feature's items loaded.
+[14:20:65] [Client thread/INFO]: Registering items
+[14:20:27] [Client thread/INFO]: Applying holder lookups
+[14:20:27] [Client thread/INFO]: Holder lookups applied
+[14:20:45] [Client thread/INFO]: Applying holder lookups
+[14:20:45] [Client thread/INFO]: Holder lookups applied
+[14:20:46] [Client thread/INFO]: Registering models
+[14:20:54] [Client thread/INFO]: Applying holder lookups
+[14:20:55] [Client thread/INFO]: Holder lookups applied
+[14:20:55] [Client thread/INFO]: Injecting itemstacks
+[14:20:55] [Client thread/INFO]: Itemstack injection complete
+[14:20:55] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[14:20:55] [Client thread/INFO]: [OptiFine] Resource packs: Default
+[14:20:98] [Client thread/WARN]: File techguns:sounds/guns/shishkebap_swing_b.ogg does not exist, cannot add it to event techguns:guns.shishkebabfire
+[14:20:98] [Client thread/WARN]: File techguns:sounds/guns/shishkebap_swing_c.ogg does not exist, cannot add it to event techguns:guns.shishkebabfire
+[14:20:99] [Client thread/WARN]: Missing sound for event: cfm:channel_news
+[14:20:99] [Client thread/WARN]: Missing sound for event: cfm:channel_cooking
+[14:20:99] [Client thread/WARN]: Missing sound for event: cfm:channel_sam_tabor
+[14:20:99] [Client thread/WARN]: Missing sound for event: cfm:channel_heman
+[14:20:99] [Client thread/WARN]: Missing sound for event: cfm:channel_switch
+[14:20:99] [Client thread/WARN]: Missing sound for event: techguns:guns.cyberdemonblasterreload
+[14:20:99] [Client thread/WARN]: Missing sound for event: techguns:jetpack.end
+[14:20:03] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:20:32] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[14:20:32] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:20:66] [Thread-11/INFO]: OpenAL initialized.
+[14:20:67] [Sound Library Loader/INFO]: Sound engine started
+[14:20:25] [Client thread/INFO]: OBJLoader.Parser: command 's' (model: 'pneumaticcraft:models/block/assembly_platform.obj') is not currently supported, skipping. Line: 27 's off'
+[14:20:82] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[14:20:82] [Client thread/INFO]: [OptiFine] Multitexture: false
+[14:20:87] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[14:20:93] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[14:20:93] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[14:20:94] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[14:20:94] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[14:20:95] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[14:20:96] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[14:20:97] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[14:20:97] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[14:20:98] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[14:20:98] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[14:20:00] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[14:20:00] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[14:20:02] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[14:20:02] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[14:20:03] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[14:20:04] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[14:20:05] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[14:20:06] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[14:20:07] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[14:20:07] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[14:20:09] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[14:20:09] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[14:20:11] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[14:20:11] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[14:20:12] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[14:20:13] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[14:20:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[14:20:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[14:20:15] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[14:20:16] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[14:20:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[14:20:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+[14:20:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[14:20:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[14:20:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[14:20:19] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[14:20:20] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[14:20:38] [Client thread/ERROR]: Using missing texture, unable to load techguns:textures/items/as50magazine_explosive.png, java.io.FileNotFoundException
+[14:20:01] [Client thread/ERROR]: Using missing texture, unable to load techguns:textures/items/lmgmagazineempty.png, java.io.FileNotFoundException
+[14:20:38] [Client thread/ERROR]: Using missing texture, unable to load techguns:textures/items/as50magazine_incendiary.png, java.io.FileNotFoundException
+[14:20:46] [Client thread/ERROR]: Using missing texture, unable to load techguns:textures/items/door3x3.png, java.io.FileNotFoundException
+[14:20:94] [Client thread/ERROR]: Using missing texture, unable to load techguns:textures/items/rocket_high_velocity.png, java.io.FileNotFoundException
+[14:20:97] [Client thread/ERROR]: Using missing texture, unable to load techguns:textures/items/bunkerdoor.png, java.io.FileNotFoundException
+[14:20:15] [Client thread/ERROR]: Using missing texture, unable to load techguns:textures/items/assaultriflemagazine_incendiary.png, java.io.FileNotFoundException
+[14:20:45] [Client thread/ERROR]: Using missing texture, unable to load techguns:textures/items/lmgmagazine_incendiary.png, java.io.FileNotFoundException
+[14:20:51] [Client thread/ERROR]: Using missing texture, unable to load techguns:textures/items/assaultriflemagazineempty.png, java.io.FileNotFoundException
+[14:21:00] [Client thread/ERROR]: Using missing texture, unable to load techguns:textures/items/dummy.png, java.io.FileNotFoundException
+[14:21:32] [Client thread/ERROR]: Using missing texture, unable to load techguns:textures/items/as50magazineempty.png, java.io.FileNotFoundException
+[14:21:89] [Client thread/ERROR]: Using missing texture, unable to load techguns:textures/items/rocket_nuke.png, java.io.FileNotFoundException
+[14:21:07] [Client thread/ERROR]: Using missing texture, unable to load techguns:textures/items/assaultriflemagazine.png, java.io.FileNotFoundException
+[14:21:80] [Client thread/ERROR]: Using missing texture, unable to load techguns:textures/items/as50magazine.png, java.io.FileNotFoundException
+[14:21:82] [Client thread/ERROR]: Using missing texture, unable to load techguns:textures/items/lmgmagazine.png, java.io.FileNotFoundException
+[14:21:28] [Client thread/ERROR]: Using missing texture, unable to load techguns:textures/items/rocket.png, java.io.FileNotFoundException
+[14:21:40] [Client thread/INFO]: [OptiFine] Custom loader sprites: 3
+[14:21:40] [Client thread/INFO]: [OptiFine] Sprite dependencies: 5
+[14:21:91] [Client thread/INFO]: Created: 4096x2048 textures-atlas
+[14:21:15] [Client thread/INFO]: [OptiFine] Animated sprites: 123
+[14:21:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #front in minecraft:models/block/orientable.json
+[14:21:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:04] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:04] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:04] [Client thread/WARN]: Unable to resolve texture due to upward reference: #front in minecraft:models/block/orientable.json
+[14:21:04] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:04] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:04] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:11] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:11] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:11] [Client thread/WARN]: Unable to resolve texture due to upward reference: #front in minecraft:models/block/orientable.json
+[14:21:11] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:11] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:11] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:81] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:81] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:81] [Client thread/WARN]: Unable to resolve texture due to upward reference: #front in minecraft:models/block/orientable.json
+[14:21:81] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:81] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:81] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:64] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:64] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:64] [Client thread/WARN]: Unable to resolve texture due to upward reference: #front in minecraft:models/block/orientable.json
+[14:21:64] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:64] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:64] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:66] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:66] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:66] [Client thread/WARN]: Unable to resolve texture due to upward reference: #front in minecraft:models/block/orientable.json
+[14:21:66] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:66] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:66] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #front in minecraft:models/block/orientable.json
+[14:21:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:57] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:57] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:57] [Client thread/WARN]: Unable to resolve texture due to upward reference: #front in minecraft:models/block/orientable.json
+[14:21:57] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:58] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:58] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:70] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:70] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:70] [Client thread/WARN]: Unable to resolve texture due to upward reference: #front in minecraft:models/block/orientable.json
+[14:21:70] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:70] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:70] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:81] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:81] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:81] [Client thread/WARN]: Unable to resolve texture due to upward reference: #front in minecraft:models/block/orientable.json
+[14:21:81] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:81] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:81] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:39] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:39] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:39] [Client thread/WARN]: Unable to resolve texture due to upward reference: #front in minecraft:models/block/orientable.json
+[14:21:39] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:39] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:39] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #front in minecraft:models/block/orientable.json
+[14:21:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:55] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:55] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:55] [Client thread/WARN]: Unable to resolve texture due to upward reference: #front in minecraft:models/block/orientable.json
+[14:21:55] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:55] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:55] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:82] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:82] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:82] [Client thread/WARN]: Unable to resolve texture due to upward reference: #front in minecraft:models/block/orientable.json
+[14:21:82] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:82] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:82] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:88] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:88] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:88] [Client thread/WARN]: Unable to resolve texture due to upward reference: #front in minecraft:models/block/orientable.json
+[14:21:88] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:88] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:88] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:94] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:94] [Client thread/WARN]: Unable to resolve texture due to upward reference: #top in minecraft:models/block/orientable.json
+[14:21:94] [Client thread/WARN]: Unable to resolve texture due to upward reference: #front in minecraft:models/block/orientable.json
+[14:21:94] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:94] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:94] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/block/orientable.json
+[14:21:52] [Client thread/ERROR]: Exception loading model for variant techguns:laserpistol#inventory, normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model techguns:item/laserpistol with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161)
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:302)
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:194)
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151)
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: java.io.FileNotFoundException: techguns:models/item/laserpistol.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65)
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365)
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115)
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861)
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157)
+	... 14 more
+
+[14:21:53] [Client thread/ERROR]: Exception loading model for variant techguns:laserpistol#inventory, blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model techguns:laserpistol#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161)
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:296)
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:194)
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151)
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83)
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175)
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157)
+	... 14 more
+
+[14:21:53] [Client thread/ERROR]: Exception loading model for variant props:blockfake#facing=south
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockfake#facing=south with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161)
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235)
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:166)
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223)
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150)
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83)
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175)
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157)
+	... 15 more
+
+[14:21:53] [Client thread/ERROR]: Exception loading model for variant props:blockprops#facing=south
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockprops#facing=south with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161)
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235)
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:166)
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223)
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150)
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83)
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175)
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157)
+	... 15 more
+
+[14:21:53] [Client thread/ERROR]: Exception loading model for variant props:blockprops#facing=north
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockprops#facing=north with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161)
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235)
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:166)
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223)
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150)
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83)
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175)
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157)
+	... 15 more
+
+[14:21:53] [Client thread/ERROR]: Exception loading model for variant minecraft:air#inventory, normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model minecraft:item/air with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161)
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:302)
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:194)
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151)
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: java.io.FileNotFoundException: minecraft:models/item/air.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65)
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365)
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115)
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861)
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157)
+	... 14 more
+
+[14:21:53] [Client thread/ERROR]: Exception loading model for variant minecraft:air#inventory, blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model minecraft:air#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161)
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:296)
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:194)
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151)
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83)
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175)
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157)
+	... 14 more
+
+[14:21:54] [Client thread/ERROR]: Exception loading model for variant props:blockprops#facing=east
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockprops#facing=east with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161)
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235)
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:166)
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223)
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150)
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83)
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175)
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157)
+	... 15 more
+
+[14:21:54] [Client thread/FATAL]: Suppressed additional 3 model loading errors for domain props
+[14:21:18] [Client thread/INFO]: [SecretRoomsTransformer] Running Transform on net.minecraft.client.renderer.BlockModelRenderer
+[14:21:19] [Client thread/INFO]: [SecretRoomsTransformer] Finished Transform on: net.minecraft.client.renderer.BlockModelRenderer
+[14:21:10] [Client thread/ERROR]: Parsing error loading recipe techguns:techguns_manual_alt
+com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214)
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538)
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$342/1415917581.parse(Unknown Source)
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416)
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723)
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$19255/2081159889.apply(Unknown Source)
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688)
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$19253/477923058.accept(Unknown Source)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+[14:21:10] [Client thread/ERROR]: Parsing error loading recipe techguns:techguns_manual
+com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214)
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538)
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$342/1415917581.parse(Unknown Source)
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416)
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723)
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$19255/2081159889.apply(Unknown Source)
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688)
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$19253/477923058.accept(Unknown Source)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+[14:21:13] [Client thread/ERROR]: Parsing error loading recipe techguns:shishkebap_alt
+com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214)
+	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254)
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$343/1463397936.parse(Unknown Source)
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416)
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723)
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$19255/2081159889.apply(Unknown Source)
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688)
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$19253/477923058.accept(Unknown Source)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+[14:21:14] [Client thread/ERROR]: Parsing error loading recipe techguns:shishkebap
+com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214)
+	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254)
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$343/1463397936.parse(Unknown Source)
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416)
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723)
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$19255/2081159889.apply(Unknown Source)
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688)
+	at net.minecraftforge.common.crafting.CraftingHelper$$Lambda$19253/477923058.accept(Unknown Source)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+[14:21:33] [Client thread/INFO]: Loading recipes...
+[14:21:33] [Client thread/INFO]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[14:21:33] [Client thread/INFO]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[14:21:33] [Client thread/INFO]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[14:21:36] [Client thread/INFO]: 72 Feature's recipes loaded.
+[14:21:36] [Client thread/INFO]: Registering recipes
+[14:21:52] [Client thread/INFO]: Applying holder lookups
+[14:21:52] [Client thread/INFO]: Holder lookups applied
+[10:21:24][FINE/CustomNPCs][noppes.npcs.LogWriter:71] Thu Aug 31 10:21:24 GMT 2023
+[10:21:24][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:87] Script Engines Available:
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: java.lang.IllegalStateException: java.lang.ClassNotFoundException: net.minecraftforge.fml.common.registry.RegistryDelegate
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at com.google.common.reflect.ClassPath$ClassInfo.load(ClassPath.java:309)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at noppes.npcs.ScriptPlayerEventHandler.registerForgeEvents(ScriptPlayerEventHandler.java:370)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at noppes.npcs.CustomNpcs.load(CustomNpcs.java:239)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[14:21:52] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:749)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at net.minecraft.client.main.Main.main(SourceFile:123)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[14:21:53] [Client thread/INFO]: [noppes.npcs.ScriptPlayerEventHandler:registerForgeEvents:405]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[14:21:53] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: java.lang.ClassNotFoundException: net.minecraftforge.fml.common.registry.RegistryDelegate
+[14:21:53] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+[14:21:53] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+[14:21:53] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+[14:21:53] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at com.google.common.reflect.ClassPath$ClassInfo.load(ClassPath.java:306)
+[14:21:53] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 42 more
+[14:21:53] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: java.lang.SecurityException: class "net.minecraftforge.fml.common.registry.RegistryDelegate"'s signer information does not match signer information of other classes in the same package
+[14:21:54] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.lang.ClassLoader.checkCerts(ClassLoader.java:895)
+[14:21:54] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.lang.ClassLoader.preDefineClass(ClassLoader.java:665)
+[14:21:54] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.lang.ClassLoader.defineClass(ClassLoader.java:758)
+[14:21:54] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+[14:21:54] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+[14:21:54] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 45 more
+[14:21:66] [Client thread/INFO]: CustomNPC Permissions available:
+[14:21:67] [Client thread/INFO]: customnpcs.edit.blocks
+[14:21:67] [Client thread/INFO]: customnpcs.edit.villager
+[14:21:67] [Client thread/INFO]: customnpcs.global.bank
+[14:21:67] [Client thread/INFO]: customnpcs.global.dialog
+[14:21:67] [Client thread/INFO]: customnpcs.global.faction
+[14:21:67] [Client thread/INFO]: customnpcs.global.linked
+[14:21:67] [Client thread/INFO]: customnpcs.global.naturalspawn
+[14:21:67] [Client thread/INFO]: customnpcs.global.playerdata
+[14:21:67] [Client thread/INFO]: customnpcs.global.quest
+[14:21:67] [Client thread/INFO]: customnpcs.global.recipe
+[14:21:67] [Client thread/INFO]: customnpcs.global.transport
+[14:21:67] [Client thread/INFO]: customnpcs.npc.advanced
+[14:21:67] [Client thread/INFO]: customnpcs.npc.ai
+[14:21:67] [Client thread/INFO]: customnpcs.npc.clone
+[14:21:67] [Client thread/INFO]: customnpcs.npc.create
+[14:21:67] [Client thread/INFO]: customnpcs.npc.delete
+[14:21:67] [Client thread/INFO]: customnpcs.npc.display
+[14:21:67] [Client thread/INFO]: customnpcs.npc.freeze
+[14:21:67] [Client thread/INFO]: customnpcs.npc.gui
+[14:21:67] [Client thread/INFO]: customnpcs.npc.inventory
+[14:21:67] [Client thread/INFO]: customnpcs.npc.reset
+[14:21:67] [Client thread/INFO]: customnpcs.npc.stats
+[14:21:67] [Client thread/INFO]: customnpcs.scenes
+[14:21:67] [Client thread/INFO]: customnpcs.soulstone.all
+[14:21:67] [Client thread/INFO]: customnpcs.spawner.create
+[14:21:67] [Client thread/INFO]: customnpcs.spawner.mob
+[14:21:67] [Client thread/INFO]: customnpcs.tool.mounter
+[14:21:67] [Client thread/INFO]: customnpcs.tool.nbtbook
+[14:21:67] [Client thread/INFO]: customnpcs.tool.pather
+[14:21:67] [Client thread/INFO]: customnpcs.tool.scripter
+[14:21:91] [Client thread/INFO]: [noppes.npcs.CustomNpcs:load:258]: Markov dictionaries loaded!
+[14:21:27] [Client thread/INFO]: Registering task 'install_app'
+[14:21:27] [Client thread/INFO]: Registering task 'update_application_data'
+[14:21:28] [Client thread/INFO]: Registering task 'print'
+[14:21:28] [Client thread/INFO]: Registering task 'update_system_data'
+[14:21:28] [Client thread/INFO]: Registering task 'connect'
+[14:21:28] [Client thread/INFO]: Registering task 'ping'
+[14:21:29] [Client thread/INFO]: Registering task 'get_network_devices'
+[14:21:29] [Client thread/INFO]: Registering task 'bank_deposit'
+[14:21:29] [Client thread/INFO]: Registering task 'bank_withdraw'
+[14:21:29] [Client thread/INFO]: Registering task 'bank_get_balance'
+[14:21:29] [Client thread/INFO]: Registering task 'bank_pay'
+[14:21:30] [Client thread/INFO]: Registering task 'bank_add'
+[14:21:30] [Client thread/INFO]: Registering task 'bank_remove'
+[14:21:30] [Client thread/INFO]: Registering task 'send_action'
+[14:21:31] [Client thread/INFO]: Registering task 'get_file_system'
+[14:21:32] [Client thread/INFO]: Registering task 'get_files'
+[14:21:32] [Client thread/INFO]: Registering task 'get_folder_structure'
+[14:21:32] [Client thread/INFO]: Registering task 'get_main_drive'
+[14:21:32] [Client thread/INFO]: Registering task 'update_inbox'
+[14:21:32] [Client thread/INFO]: Registering task 'send_email'
+[14:21:32] [Client thread/INFO]: Registering task 'check_email_account'
+[14:21:32] [Client thread/INFO]: Registering task 'register_email_account'
+[14:21:32] [Client thread/INFO]: Registering task 'delete_email'
+[14:21:32] [Client thread/INFO]: Registering task 'view_email'
+[14:21:34] [Client thread/INFO]: Registering print 'com.mrcrayfish.device.programs.ApplicationPixelPainter$PicturePrint'
+[14:21:58] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmoven`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:58] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfridge`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfreezer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbedsidecabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmailbox`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcomputer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmprinter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmstereo`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmpresent`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbin`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwallcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbath`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmshowerhead`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmplate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcouch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtoaster`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmchoppingboard`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmblender`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmicrowave`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwashingmachine`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdishwasher`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinetkitchen`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcup`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcookiejar`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtree`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmirror`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmgrill`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmeski`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdoormat`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcrate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmlightswitch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:59] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmceilingfan`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:60] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdeskcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:60] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmodernslidingdoor`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:60] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdigitalclock`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:60] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtv`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:60] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:60] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounterdrawer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:62] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodsecretmalisistileentitydoor`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:62] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodsecretmalisistileentitytrapdoor`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:62] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodtileentityinfomationholder`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:62] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodtileentitysecretchest`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:62] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodtileentitysecretdispenser`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:62] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodtileentitysecretdaylightsensor`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:62] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodtileentitysecretpressureplate`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[14:21:64] [Client thread/INFO]: [SecretRoomsTransformer] Running Transform on net.minecraft.client.renderer.chunk.RenderChunk
+[14:21:65] [Client thread/INFO]: [SecretRoomsTransformer] Finished Transform on: net.minecraft.client.renderer.chunk.RenderChunk
+[14:21:16] [Client thread/INFO]: Received 29 IMC messages from mod techguns.
+[14:21:19] [Client thread/INFO]: Injecting itemstacks
+[14:21:19] [Client thread/INFO]: Itemstack injection complete
+[14:21:25] [Client thread/ERROR]: Icon for application 'cdm:app_store' could not be found at '/assets/cdm/textures/app/icon/app_store.png'
+[14:21:39] [Client thread/INFO]: Loading texture and data for Digital-7 Mono
+[14:21:84] [Client thread/WARN]: skipping BlockHeatProperties.cfg entry 'ic2:resource[type=uranium_block]': unknown block (mod not loaded?)
+[14:21:84] [Client thread/WARN]: skipping BlockHeatProperties.cfg entry 'immersiveengineering:storage[type=uranium]': unknown block (mod not loaded?)
+[14:21:84] [Client thread/WARN]: skipping BlockHeatProperties.cfg entry 'natura:nether_heat_sand': unknown block (mod not loaded?)
+[14:21:84] [Client thread/WARN]: BlockHeatProperties.cfg: unknown fluid definition [ic2hot_coolant]
+[14:21:84] [Client thread/WARN]: skipping BlockHeatProperties.cfg entry 'ic2hot_coolant': unknown fluid (mod not loaded?)
+[14:21:84] [Client thread/WARN]: BlockHeatProperties.cfg: unknown fluid definition [ic2coolant]
+[14:21:84] [Client thread/WARN]: skipping BlockHeatProperties.cfg entry 'ic2coolant': unknown fluid (mod not loaded?)
+[14:21:84] [Client thread/WARN]: BlockHeatProperties.cfg: unknown fluid definition [ic2steam]
+[14:21:84] [Client thread/WARN]: skipping BlockHeatProperties.cfg entry 'ic2steam': unknown fluid (mod not loaded?)
+[14:21:84] [Client thread/WARN]: BlockHeatProperties.cfg: unknown fluid definition [ic2superheated_steam]
+[14:21:84] [Client thread/WARN]: skipping BlockHeatProperties.cfg entry 'ic2superheated_steam': unknown fluid (mod not loaded?)
+[14:21:84] [Client thread/WARN]: skipping BlockHeatProperties.cfg entry 'thermalfoundation:storage_alloy[type=enderium]': unknown block (mod not loaded?)
+[14:21:84] [Client thread/WARN]: BlockHeatProperties.cfg: unknown fluid definition [cryotheum]
+[14:21:84] [Client thread/WARN]: skipping BlockHeatProperties.cfg entry 'cryotheum': unknown fluid (mod not loaded?)
+[14:21:84] [Client thread/WARN]: skipping BlockHeatProperties.cfg entry 'quark:blaze_lantern': unknown block (mod not loaded?)
+[14:21:84] [Client thread/WARN]: skipping BlockHeatProperties.cfg entry 'quark:biome_cobblestone[variant=fire_stone]': unknown block (mod not loaded?)
+[14:21:84] [Client thread/WARN]: skipping BlockHeatProperties.cfg entry 'quark:biome_cobblestone[variant=icy_stone]': unknown block (mod not loaded?)
+[14:21:04] [Client thread/INFO]: Started splash fetcher: thread Thread-13
+[14:21:52] [Thread-13/INFO]: [me.desht.pneumaticcraft.common.util.DramaSplash$SplashGrabber:run:72]: java.io.FileNotFoundException: http://mc-drama.herokuapp.com/raw
+[14:21:52] [Thread-13/INFO]: [me.desht.pneumaticcraft.common.util.DramaSplash$SplashGrabber:run:72]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1835)
+[14:21:52] [Thread-13/INFO]: [me.desht.pneumaticcraft.common.util.DramaSplash$SplashGrabber:run:72]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[14:21:52] [Thread-13/INFO]: [me.desht.pneumaticcraft.common.util.DramaSplash$SplashGrabber:run:72]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[14:21:52] [Thread-13/INFO]: [me.desht.pneumaticcraft.common.util.DramaSplash$SplashGrabber:run:72]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[14:21:52] [Thread-13/INFO]: [me.desht.pneumaticcraft.common.util.DramaSplash$SplashGrabber:run:72]: 	at java.security.AccessController.doPrivileged(Native Method)
+[14:21:52] [Thread-13/INFO]: [me.desht.pneumaticcraft.common.util.DramaSplash$SplashGrabber:run:72]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[14:21:52] [Thread-13/INFO]: [me.desht.pneumaticcraft.common.util.DramaSplash$SplashGrabber:run:72]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[14:21:52] [Thread-13/INFO]: [me.desht.pneumaticcraft.common.util.DramaSplash$SplashGrabber:run:72]: 	at java.net.URL.openStream(URL.java:1038)
+[14:21:52] [Thread-13/INFO]: [me.desht.pneumaticcraft.common.util.DramaSplash$SplashGrabber:run:72]: 	at org.apache.commons.io.IOUtils.toString(IOUtils.java:1153)
+[14:21:52] [Thread-13/INFO]: [me.desht.pneumaticcraft.common.util.DramaSplash$SplashGrabber:run:72]: 	at me.desht.pneumaticcraft.common.util.DramaSplash$SplashGrabber.run(DramaSplash.java:61)
+[14:21:52] [Thread-13/INFO]: [me.desht.pneumaticcraft.common.util.DramaSplash$SplashGrabber:run:72]: 	at java.lang.Thread.run(Thread.java:745)
+[14:21:52] [Thread-13/INFO]: Finished fetching splash: 0 texts in queue
+[14:21:43] [Client thread/INFO]: Forge Mod Loader has successfully loaded 30 mods
+[14:21:49] [Client thread/WARN]: Skipping bad option: lastServer:
+[14:21:63] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[14:21:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[14:21:46] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[14:21:48] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[14:21:10] [Client thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[14:21:38] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[14:21:39] [Server thread/INFO]: Generating keypair
+[10:21:59][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:42] Loading Linked Npcs
+[10:21:59][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:62] Done loading Linked Npcs
+[14:21:99] [Server thread/INFO]: Injecting existing registry data into this server instance
+[14:22:20] [Server thread/INFO]: Applying holder lookups
+[14:22:20] [Server thread/INFO]: Holder lookups applied
+[14:22:33] [Server thread/INFO]: Loading dimension 0 (Mods) (net.minecraft.server.integrated.IntegratedServer@48eb390d)
+[14:22:12] [Server thread/INFO]: Loaded 553 advancements
+[14:22:25] [Server thread/INFO]: Loading dimension -1 (Mods) (net.minecraft.server.integrated.IntegratedServer@48eb390d)
+[14:22:31] [Server thread/INFO]: Loading dimension 1 (Mods) (net.minecraft.server.integrated.IntegratedServer@48eb390d)
+[14:22:31] [Server thread/INFO]: Preparing start region for level 0
+[14:22:32] [Server thread/INFO]: Preparing spawn area: 55%
+[10:22:05][FINE/CustomNPCs][noppes.npcs.controllers.DialogController:44] Loading Dialogs
+[10:22:05][FINE/CustomNPCs][noppes.npcs.controllers.DialogController:46] Done loading Dialogs
+[14:22:06] [Server thread/INFO]: Unloading dimension -1
+[14:22:22] [Server thread/INFO]: Unloading dimension 1
+[14:22:22] [Server thread/INFO]: Changing view distance to 5, from 10
+[14:22:15] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[14:22:20] [Netty Server IO #1/INFO]: Client protocol version 2
+[14:22:21] [Netty Server IO #1/INFO]: Client attempting to join with 30 mods : minecraft@1.12.2,thutcore_compat@1.0,malisiscore@1.12.2-6.4.0,ptrmodellib@1.0.5,extrabitmanipulation@1.12.2-3.4.0,locks@3.0.0,vehicle@0.44.1,srm-hooks@1.12.2-1.0.0,techguns_core@1.12.2-1.0,redstonepaste@1.7.5,mcp@9.42,ctm@MC1.12.2-1.0.2.31,securitycraft@v1.9.7,FML@8.0.99.99,obfuscate@0.4.2,customnpcs@1.12,pneumaticcraft@1.12.2-0.11.15-398,secretroomsmod@5.6.4,mw@1.11.7.7,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,cdm@0.4.1,props@2.6.3.7,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,chiselsandbits@14.32,malisisdoors@1.12.2-7.3.0,thuttech@6.1.5,thutcore@5.19.8,techguns@2.0.2.0
+[14:22:24] [Netty Local Client IO #0/INFO]: Updating 0 synced key mappings
+[14:22:25] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[14:22:27] [Server thread/INFO]: [Server thread] Server side modded connection established
+[14:22:29] [Server thread/INFO]: BananaMax_Play[local:E:929b0948] logged in with entity id 397 at (-1556.6377705754883, 4.0, 221.18964451452848)
+[14:22:30] [Server thread/INFO]: BananaMax_Play присоединился к игре
+[14:22:37] [Server thread/WARN]: The URL is in the wrong format. Please report this
+[14:22:54] [Thread-8/INFO]: [CHAT] §2CustomNpcs§f installed. For more info §9§nClick here
+[14:22:62] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6365ms behind, skipping 127 tick(s)
+[14:22:62] [Server thread/INFO]: Saving and pausing game...
+[14:22:69] [Server thread/INFO]: Saving chunks for level 'Mods'/overworld
+[14:22:21] [Client thread/INFO]: textures BananaMax_Play was added, skin: true,cape: false, max waiting: 11 ,during : 39711 
+[14:22:39] [Client thread/INFO]: [CHAT] [§6SecurityCraft§f] Thanks for using SecurityCraft v1.9.7! Tip: The official SecurityCraft server is back! Join using this IP: securitycraft.nodecraft.gg
+[14:22:51] [Client thread/INFO]: Loaded 100 advancements
+[14:27:66] [Server thread/INFO]: Saving and pausing game...
+[14:27:68] [Server thread/INFO]: Saving chunks for level 'Mods'/overworld
+[14:28:06] [Server thread/INFO]: Saving and pausing game...
+[14:28:08] [Server thread/INFO]: Saving chunks for level 'Mods'/overworld
+[14:40:82] [Server thread/INFO]: Saving and pausing game...
+[14:40:84] [Server thread/INFO]: Saving chunks for level 'Mods'/overworld
+[14:43:27] [Server thread/INFO]: Saving and pausing game...
+[14:43:36] [Server thread/INFO]: Saving chunks for level 'Mods'/overworld
+[14:58:81] [Server thread/INFO]: Saving and pausing game...
+[14:58:83] [Server thread/INFO]: Saving chunks for level 'Mods'/overworld
+[14:58:62] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:58:62] [Client thread/ERROR]: @ Post render
+[14:58:62] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[14:58:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:58:47] [Client thread/ERROR]: @ Post render
+[14:58:47] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[14:58:91] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:58:91] [Client thread/ERROR]: @ Post render
+[14:58:91] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[14:58:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:58:21] [Client thread/ERROR]: @ Post render
+[14:58:21] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[14:58:07] [Client thread/INFO]: [CHAT] §eОшибка OpenGL§f: 1286 (Invalid framebuffer operation)
+[14:58:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:58:07] [Client thread/ERROR]: @ Post render
+[14:58:07] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[14:58:95] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:58:95] [Client thread/ERROR]: @ Post render
+[14:58:95] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[14:58:81] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:58:81] [Client thread/ERROR]: @ Post render
+[14:58:81] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+AL lib: (EE) MMDevApiProc: WaitForSingleObjectEx error: 0x102
+[14:58:76] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:58:76] [Client thread/ERROR]: @ Post render
+[14:58:76] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+AL lib: (EE) MMDevApiProc: WaitForSingleObjectEx error: 0x102
+[14:58:65] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:58:65] [Client thread/ERROR]: @ Post render
+[14:58:65] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+AL lib: (EE) MMDevApiProc: WaitForSingleObjectEx error: 0x102
+[15:07:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 516135ms behind, skipping 10322 tick(s)
+[15:07:61] [Client thread/INFO]: [CHAT] §eОшибка OpenGL§f: 1286 (Invalid framebuffer operation)
+[15:07:61] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:61] [Client thread/ERROR]: @ Post render
+[15:07:61] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:88] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:88] [Client thread/ERROR]: @ Post render
+[15:07:88] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:98] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:98] [Client thread/ERROR]: @ Post render
+[15:07:99] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:03] [Client thread/ERROR]: @ Post render
+[15:07:03] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:93] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:93] [Client thread/ERROR]: @ Post render
+[15:07:93] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:82] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:82] [Client thread/ERROR]: @ Post render
+[15:07:82] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:77] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:77] [Client thread/ERROR]: @ Post render
+[15:07:78] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:65] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:65] [Client thread/ERROR]: @ Post render
+[15:07:65] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:54] [Client thread/ERROR]: @ Post render
+[15:07:54] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:41] [Client thread/ERROR]: @ Post render
+[15:07:41] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:28] [Client thread/ERROR]: @ Post render
+[15:07:28] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:06] [Client thread/INFO]: [CHAT] §eОшибка OpenGL§f: 1286 (Invalid framebuffer operation)
+[15:07:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:07] [Client thread/ERROR]: @ Post render
+[15:07:07] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:83] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:83] [Client thread/ERROR]: @ Post render
+[15:07:83] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:57] [Client thread/ERROR]: @ Post render
+[15:07:57] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:34] [Client thread/ERROR]: @ Post render
+[15:07:34] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:08] [Client thread/ERROR]: @ Post render
+[15:07:08] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:82] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:82] [Client thread/ERROR]: @ Post render
+[15:07:82] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:61] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:61] [Client thread/ERROR]: @ Post render
+[15:07:61] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:36] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:36] [Client thread/ERROR]: @ Post render
+[15:07:36] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:11] [Client thread/ERROR]: @ Post render
+[15:07:11] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:88] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:88] [Client thread/ERROR]: @ Post render
+[15:07:88] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:72] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:72] [Client thread/ERROR]: @ Post render
+[15:07:72] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:46] [Client thread/ERROR]: @ Post render
+[15:07:46] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:20] [Client thread/ERROR]: @ Post render
+[15:07:20] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:00] [Client thread/ERROR]: @ Post render
+[15:07:00] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:89] [Client thread/INFO]: [CHAT] §eОшибка OpenGL§f: 1286 (Invalid framebuffer operation)
+[15:07:89] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:89] [Client thread/ERROR]: @ Post render
+[15:07:89] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:82] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:82] [Client thread/ERROR]: @ Post render
+[15:07:82] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:56] [Client thread/ERROR]: @ Post render
+[15:07:56] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:31] [Client thread/ERROR]: @ Post render
+[15:07:31] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:05] [Client thread/ERROR]: @ Post render
+[15:07:05] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:80] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:80] [Client thread/ERROR]: @ Post render
+[15:07:80] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:53] [Client thread/ERROR]: @ Post render
+[15:07:53] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:30] [Client thread/ERROR]: @ Post render
+[15:07:30] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:23] [Client thread/ERROR]: @ Post render
+[15:07:23] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:05] [Client thread/ERROR]: @ Post render
+[15:07:05] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:78] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:78] [Client thread/ERROR]: @ Post render
+[15:07:78] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:53] [Client thread/ERROR]: @ Post render
+[15:07:53] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:27] [Client thread/ERROR]: @ Post render
+[15:07:27] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:01] [Client thread/INFO]: [CHAT] §eОшибка OpenGL§f: 1286 (Invalid framebuffer operation)
+[15:07:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:01] [Client thread/ERROR]: @ Post render
+[15:07:01] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:74] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:74] [Client thread/ERROR]: @ Post render
+[15:07:74] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:48] [Client thread/ERROR]: @ Post render
+[15:07:48] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:23] [Client thread/ERROR]: @ Post render
+[15:07:23] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:98] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:98] [Client thread/ERROR]: @ Post render
+[15:07:98] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:73] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:73] [Client thread/ERROR]: @ Post render
+[15:07:73] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:46] [Client thread/ERROR]: @ Post render
+[15:07:46] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:21] [Client thread/ERROR]: @ Post render
+[15:07:21] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:94] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:94] [Client thread/ERROR]: @ Post render
+[15:07:94] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:71] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:71] [Client thread/ERROR]: @ Post render
+[15:07:71] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:45] [Client thread/ERROR]: @ Post render
+[15:07:45] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:18] [Client thread/ERROR]: @ Post render
+[15:07:18] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:99] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:99] [Client thread/ERROR]: @ Post render
+[15:07:99] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:93] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:93] [Client thread/ERROR]: @ Post render
+[15:07:93] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:67] [Client thread/INFO]: [CHAT] §eОшибка OpenGL§f: 1286 (Invalid framebuffer operation)
+[15:07:67] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:67] [Client thread/ERROR]: @ Post render
+[15:07:67] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:42] [Client thread/ERROR]: @ Post render
+[15:07:42] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:57] [Client thread/ERROR]: @ Post render
+[15:07:57] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:59] [Client thread/ERROR]: @ Post render
+[15:07:59] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:35] [Client thread/ERROR]: @ Post render
+[15:07:35] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:12] [Client thread/ERROR]: @ Post render
+[15:07:12] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:05] [Client thread/ERROR]: @ Post render
+[15:07:05] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:28] [Client thread/ERROR]: @ Post render
+[15:07:28] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:07:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:07:15] [Client thread/ERROR]: @ Post render
+[15:07:15] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:08:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:08:03] [Client thread/ERROR]: @ Post render
+[15:08:03] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:08:94] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:08:94] [Client thread/ERROR]: @ Post render
+[15:08:94] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:08:86] [Client thread/INFO]: [CHAT] §eОшибка OpenGL§f: 1286 (Invalid framebuffer operation)
+[15:08:86] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:08:86] [Client thread/ERROR]: @ Post render
+[15:08:86] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:08:77] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:08:77] [Client thread/ERROR]: @ Post render
+[15:08:77] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:08:96] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:08:96] [Client thread/ERROR]: @ Post render
+[15:08:96] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:08:90] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:08:90] [Client thread/ERROR]: @ Post render
+[15:08:90] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[15:08:06] [Client thread/INFO]: Stopping!
+[15:08:15] [Server thread/INFO]: Stopping server
+[15:08:16] [Server thread/INFO]: Saving players
+[15:08:18] [Server thread/INFO]: Saving worlds
+[15:08:18] [Server thread/INFO]: Saving chunks for level 'Mods'/overworld
+[15:08:24] [Server thread/INFO]: Unloading dimension 0
+[15:08:43] [Server thread/INFO]: Applying holder lookups
+[15:08:43] [Server thread/INFO]: Holder lookups applied
+[15:08:45] [Client thread/INFO]: SoundSystem shutting down...
+[15:08:68] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (57 ms)
+[Launcher] Launcher exited.
+[Launcher] Minecraft closed with exit code: 0
+Good bye!
+[Double running] clear time label
+[TLauncherManager] before clearLibrary C:\Users\julia\AppData\Roaming\.minecraft\mods\1.12.2-SecurityCraft-v1.9.7.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Chisel-MC1.12.2-1.0.2.45.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\chiselsandbits_1.12.2_14.32.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\CTM-MC1.12.2-1.0.2.31.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\CustomNPCs_1.12.2_05Jul20.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Decocraft-2.6.3.7_1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\device_mod_0.4.1_1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\ExtraBitManipulation_1.12.2_3.4.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Furniture-Mod-6.3.2-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Locks-1.12.2-3.0.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\malisiscore-1.12.2-6.4.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\malisisdoors-1.12.2-7.3.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\mw_1.11.7.7_mc1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\obfuscate-0.4.2-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\OptiFine-OptiFine-1.12.2_HD_U_G5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\pneumaticcraft_repressurized_1.12.2_0.11.15_398.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\PTRLib-1.0.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\redstonepaste_mc1.12_1.7.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\secretroomsmod_1.12.2_5.6.4.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\techguns_1.12.2_2.0.2.0_pre3.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\thutcore-1.12.2-5.19.8.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\thuttech-1.12.2-6.1.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\tlskincape_1.12.2-1.4.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\vehicle-mod-0.44.1-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\worldedit-mod-7.2.15-1.20.1.jar
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary C:\Users\julia\AppData\Roaming\.minecraft\mods\1.12.2-SecurityCraft-v1.9.7.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Chisel-MC1.12.2-1.0.2.45.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\chiselsandbits_1.12.2_14.32.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\CTM-MC1.12.2-1.0.2.31.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\CustomNPCs_1.12.2_05Jul20.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Decocraft-2.6.3.7_1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\device_mod_0.4.1_1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\ExtraBitManipulation_1.12.2_3.4.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Furniture-Mod-6.3.2-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Locks-1.12.2-3.0.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\malisiscore-1.12.2-6.4.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\malisisdoors-1.12.2-7.3.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\mw_1.11.7.7_mc1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\obfuscate-0.4.2-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\pneumaticcraft_repressurized_1.12.2_0.11.15_398.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\PTRLib-1.0.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\redstonepaste_mc1.12_1.7.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\secretroomsmod_1.12.2_5.6.4.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\techguns_1.12.2_2.0.2.0_pre3.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\thutcore-1.12.2-5.19.8.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\thuttech-1.12.2-6.1.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\vehicle-mod-0.44.1-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\worldedit-mod-7.2.15-1.20.1.jar
+flush now

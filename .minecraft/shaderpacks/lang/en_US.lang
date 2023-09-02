@@ -1,0 +1,18 @@
+option.ABOUT=§bCreator
+option.ABOUT.comment=§2Twitter : @MCH_YamaRin
+value.ABOUT.0=YamaRin
+value.ABOUT.1=Thanks for Using(*'ω'*)
+
+option.TONEMAP=Tone Map
+option.FOG=Fog
+option.SKY=Sky Color
+option.CLOUDS=Clouds
+option.RAIN=Rain Effect
+option.UNDERWATER=Underwater Reflection
+option.WAVE=Waves
+option.VANILLACLOUDS=Vanilla Clouds
+option.SHADOWS=Shadows
+option.LIGHT=Light Color
+option.WATER=Original Water
+option.GLOWING_ORES=Glowing Ores
+option.sunPathRotation=Sun & Moon Rotation

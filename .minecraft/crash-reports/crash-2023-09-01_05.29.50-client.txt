@@ -1,0 +1,200 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  MalisisCorePlugin (malisiscore-1.12.2-6.4.0.jar)
+  weaponlib (mw_1.11.7.7_mc1.12.2.jar)
+  SecurityCraftLoadingPlugin (1.12.2-SecurityCraft-v1.9.7.jar)
+  MixinLoader (Locks-1.12.2-3.0.0.jar)
+  Techguns Core (techguns_1.12.2_2.0.2.0_pre3.2.jar)
+  NWRTweak (redstonepaste_mc1.12_1.7.5.jar)
+  ObfuscatePlugin (obfuscate-0.4.2-1.12.2.jar)
+  CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  TLSkinCapeHookLoader (tlskincape_1.12.2-1.4.jar)
+  SecretRoomsMod-Core (secretroomsmod_1.12.2_5.6.4.jar)
+Contact their authors BEFORE contacting forge
+
+// There are four lights!
+
+Time: 9/1/23 5:29 AM
+Description: Rendering item
+
+java.lang.IllegalStateException: Not building!
+	at net.minecraft.client.renderer.BufferBuilder.func_178977_d(BufferBuilder.java:537)
+	at net.minecraft.client.renderer.Tessellator.func_78381_a(SourceFile:21)
+	at com.vicmatskiv.weaponlib.compatibility.CompatibleWeaponRenderer.func_188616_a(CompatibleWeaponRenderer.java:137)
+	at net.minecraftforge.client.ForgeHooksClient.renderLitItem(ForgeHooksClient.java:653)
+	at net.minecraft.client.renderer.RenderItem.func_191967_a(RenderItem.java:118)
+	at net.minecraft.client.renderer.RenderItem.func_191961_a(RenderItem.java:106)
+	at net.minecraft.client.renderer.RenderItem.func_180454_a(RenderItem.java:149)
+	at net.minecraft.client.renderer.RenderItem.func_191962_a(RenderItem.java:308)
+	at net.minecraft.client.renderer.RenderItem.func_184391_a(RenderItem.java:347)
+	at net.minecraft.client.renderer.RenderItem.func_180450_b(RenderItem.java:336)
+	at net.minecraft.client.gui.inventory.GuiContainerCreative.func_147051_a(GuiContainerCreative.java:922)
+	at net.minecraft.client.gui.inventory.GuiContainerCreative.func_146976_a(GuiContainerCreative.java:758)
+	at net.minecraft.client.gui.inventory.GuiContainer.func_73863_a(GuiContainer.java:75)
+	at net.minecraft.client.renderer.InventoryEffectRenderer.func_73863_a(InventoryEffectRenderer.java:51)
+	at net.minecraft.client.gui.inventory.GuiContainerCreative.func_73863_a(GuiContainerCreative.java:643)
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:396)
+	at net.minecraft.client.renderer.EntityRenderer.func_181560_a(EntityRenderer.java:1124)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1119)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at net.minecraft.client.renderer.BufferBuilder.func_178977_d(BufferBuilder.java:537)
+	at net.minecraft.client.renderer.Tessellator.func_78381_a(SourceFile:21)
+	at com.vicmatskiv.weaponlib.compatibility.CompatibleWeaponRenderer.func_188616_a(CompatibleWeaponRenderer.java:137)
+	at net.minecraftforge.client.ForgeHooksClient.renderLitItem(ForgeHooksClient.java:653)
+	at net.minecraft.client.renderer.RenderItem.func_191967_a(RenderItem.java:118)
+	at net.minecraft.client.renderer.RenderItem.func_191961_a(RenderItem.java:106)
+	at net.minecraft.client.renderer.RenderItem.func_180454_a(RenderItem.java:149)
+	at net.minecraft.client.renderer.RenderItem.func_191962_a(RenderItem.java:308)
+
+-- Item being rendered --
+Details:
+	Item Type: com.vicmatskiv.weaponlib.Weapon@6d852fd0
+	Registry Name: mw:m16a4
+	Item Aux: 0
+	Item NBT: null
+	Item Foil: false
+Stacktrace:
+	at net.minecraft.client.renderer.RenderItem.func_184391_a(RenderItem.java:347)
+	at net.minecraft.client.renderer.RenderItem.func_180450_b(RenderItem.java:336)
+	at net.minecraft.client.gui.inventory.GuiContainerCreative.func_147051_a(GuiContainerCreative.java:922)
+	at net.minecraft.client.gui.inventory.GuiContainerCreative.func_146976_a(GuiContainerCreative.java:758)
+	at net.minecraft.client.gui.inventory.GuiContainer.func_73863_a(GuiContainer.java:75)
+	at net.minecraft.client.renderer.InventoryEffectRenderer.func_73863_a(InventoryEffectRenderer.java:51)
+	at net.minecraft.client.gui.inventory.GuiContainerCreative.func_73863_a(GuiContainerCreative.java:643)
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:396)
+
+-- Screen render details --
+Details:
+	Screen name: net.minecraft.client.gui.inventory.GuiContainerCreative
+	Mouse location: Scaled: (424, 63). Absolute: (848, 578)
+	Screen size: Scaled: (683, 353). Absolute: (1366, 705). Scale factor of 2
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityPlayerSP['BananaMax_Play'/190, l='MpServer', x=124.70, y=65.00, z=244.82]]
+	Chunk stats: MultiplayerChunkCache: 121, 121
+	Level seed: 0
+	Level generator: ID 00 - default, ver 1. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (120,64,244), Chunk: (at 8,4,4 in 7,15; contains blocks 112,0,240 to 127,255,255), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 41142 game time, 32710 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: false
+	Forced entities: 27 total; [EntityBat['Летучая мышь'/67, l='MpServer', x=65.48, y=18.37, z=209.86], EntityWolf['Волк'/135, l='MpServer', x=184.24, y=67.00, z=192.41], EntityWolf['Волк'/72, l='MpServer', x=72.50, y=63.00, z=231.71], EntityWolf['Волк'/136, l='MpServer', x=178.50, y=65.00, z=196.50], EntityWolf['Волк'/73, l='MpServer', x=76.55, y=63.00, z=227.67], EntityWolf['Волк'/137, l='MpServer', x=180.49, y=64.00, z=200.26], EntityWolf['Волк'/74, l='MpServer', x=79.50, y=63.00, z=241.50], EntityWolf['Волк'/138, l='MpServer', x=186.28, y=71.00, z=195.50], EntityWolf['Волк'/75, l='MpServer', x=69.52, y=63.00, z=245.39], EntityPlayerSP['BananaMax_Play'/190, l='MpServer', x=124.70, y=65.00, z=244.82], EntityWolf['Волк'/86, l='MpServer', x=123.67, y=64.00, z=287.72], EntityWolf['Волк'/87, l='MpServer', x=125.35, y=64.00, z=291.62], EntityItem['item.item.seeds'/97, l='MpServer', x=130.32, y=66.00, z=265.36], EntityWolf['Волк'/98, l='MpServer', x=132.50, y=64.00, z=283.50], EntityWolf['Волк'/99, l='MpServer', x=130.83, y=64.00, z=284.59], EntityWolf['Волк'/100, l='MpServer', x=132.40, y=64.00, z=279.66], EntityWolf['Волк'/101, l='MpServer', x=139.70, y=67.00, z=278.50], EntityWolf['Волк'/102, l='MpServer', x=137.50, y=66.00, z=292.57], EntityWolf['Волк'/103, l='MpServer', x=142.39, y=67.00, z=303.50], EntityWolf['Волк'/104, l='MpServer', x=132.99, y=65.00, z=295.11], EntityWolf['Волк'/108, l='MpServer', x=155.43, y=65.00, z=228.48], EntityWolf['Волк'/109, l='MpServer', x=144.62, y=67.00, z=240.50], EntityWolf['Волк'/110, l='MpServer', x=149.30, y=68.00, z=257.13], EntityWolf['Волк'/111, l='MpServer', x=155.28, y=67.00, z=255.50], EntityWolf['Волк'/112, l='MpServer', x=159.30, y=67.00, z=250.48], EntityWolf['Волк'/113, l='MpServer', x=146.50, y=69.00, z=267.45], EntityWolf['Волк'/114, l='MpServer', x=149.41, y=68.00, z=257.75]]
+	Retry entities: 0 total; []
+	Server brand: fml,forge
+	Server type: Non-integrated multiplayer server
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.func_72914_a(WorldClient.java:420)
+	at net.minecraft.client.Minecraft.func_71396_d(Minecraft.java:2741)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:419)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1102185968 bytes (1051 MB) / 3154116608 bytes (3008 MB) up to 3154116608 bytes (3008 MB)
+	JVM Flags: 7 total; -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2860 30 mods loaded, 30 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                         | Version            | Source                                              | Signature                                |
+	|:------ |:-------------------------- |:------------------ |:--------------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft                  | 1.12.2             | minecraft.jar                                       | None                                     |
+	| LCHIJA | mcp                        | 9.42               | minecraft.jar                                       | None                                     |
+	| LCHIJA | FML                        | 8.0.99.99          | forge-1.12.2-14.23.5.2860.jar                       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge                      | 14.23.5.2860       | forge-1.12.2-14.23.5.2860.jar                       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | obfuscate                  | 0.4.2              | minecraft.jar                                       | None                                     |
+	| LCHIJA | srm-hooks                  | 1.12.2-1.0.0       | minecraft.jar                                       | None                                     |
+	| LCHIJA | techguns_core              | 1.12.2-1.0         | minecraft.jar                                       | None                                     |
+	| LCHIJA | securitycraft              | v1.9.7             | 1.12.2-SecurityCraft-v1.9.7.jar                     | None                                     |
+	| LCHIJA | ctm                        | MC1.12.2-1.0.2.31  | CTM-MC1.12.2-1.0.2.31.jar                           | None                                     |
+	| LCHIJA | chisel                     | MC1.12.2-1.0.2.45  | Chisel-MC1.12.2-1.0.2.45.jar                        | None                                     |
+	| LCHIJA | chiselsandbits             | 14.32              | chiselsandbits_1.12.2_14.32.jar                     | None                                     |
+	| LCHIJA | customnpcs                 | 1.12               | CustomNPCs_1.12.2_05Jul20.jar                       | None                                     |
+	| LCHIJA | ptrmodellib                | 1.0.5              | PTRLib-1.0.5.jar                                    | None                                     |
+	| LCHIJA | props                      | 2.6.3.7            | Decocraft-2.6.3.7_1.12.2.jar                        | None                                     |
+	| LCHIJA | cdm                        | 0.4.1              | device_mod_0.4.1_1.12.2.jar                         | None                                     |
+	| LCHIJA | extrabitmanipulation       | 1.12.2-3.4.0       | ExtraBitManipulation_1.12.2_3.4.0.jar               | None                                     |
+	| LCHIJA | cfm                        | 6.3.0              | Furniture-Mod-6.3.2-1.12.2.jar                      | None                                     |
+	| LCHIJA | locks                      | 3.0.0              | Locks-1.12.2-3.0.0.jar                              | None                                     |
+	| LCHIJA | malisiscore                | 1.12.2-6.4.0       | malisiscore-1.12.2-6.4.0.jar                        | None                                     |
+	| LCHIJA | malisisdoors               | 1.12.2-7.3.0       | malisisdoors-1.12.2-7.3.0.jar                       | None                                     |
+	| LCHIJA | mw                         | 1.11.7.7           | mw_1.11.7.7_mc1.12.2.jar                            | None                                     |
+	| LCHIJA | pneumaticcraft             | 1.12.2-0.11.15-398 | pneumaticcraft_repressurized_1.12.2_0.11.15_398.jar | None                                     |
+	| LCHIJA | redstonepaste              | 1.7.5              | redstonepaste_mc1.12_1.7.5.jar                      | None                                     |
+	| LCHIJA | secretroomsmod             | 5.6.4              | secretroomsmod_1.12.2_5.6.4.jar                     | None                                     |
+	| LCHIJA | techguns                   | 2.0.2.0            | techguns_1.12.2_2.0.2.0_pre3.2.jar                  | None                                     |
+	| LCHIJA | thutcore                   | 5.19.8             | thutcore-1.12.2-5.19.8.jar                          | None                                     |
+	| LCHIJA | thutcore_compat            | 1.0                | thutcore-1.12.2-5.19.8.jar                          | None                                     |
+	| LCHIJA | thuttech                   | 6.1.5              | thuttech-1.12.2-6.1.5.jar                           | None                                     |
+	| LCHIJA | tlauncher_custom_cape_skin | 1.4                | tlskincape_1.12.2-1.4.jar                           | None                                     |
+	| LCHIJA | vehicle                    | 0.44.1             | vehicle-mod-0.44.1-1.12.2.jar                       | None                                     |
+
+	Loaded coremods (and transformers): 
+MalisisCorePlugin (malisiscore-1.12.2-6.4.0.jar)
+  
+weaponlib (mw_1.11.7.7_mc1.12.2.jar)
+  com.vicmatskiv.weaponlib.core.WeaponlibClassTransformer
+SecurityCraftLoadingPlugin (1.12.2-SecurityCraft-v1.9.7.jar)
+  
+MixinLoader (Locks-1.12.2-3.0.0.jar)
+  
+Techguns Core (techguns_1.12.2_2.0.2.0_pre3.2.jar)
+  techguns.core.TechgunsASMTransformer
+NWRTweak (redstonepaste_mc1.12_1.7.5.jar)
+  net.fybertech.nwr.NWRTransformer
+ObfuscatePlugin (obfuscate-0.4.2-1.12.2.jar)
+  com.mrcrayfish.obfuscate.asm.ObfuscateTransformer
+CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+TLSkinCapeHookLoader (tlskincape_1.12.2-1.4.jar)
+  gloomyfolken.hooklib.minecraft.PrimaryClassTransformer
+SecretRoomsMod-Core (secretroomsmod_1.12.2_5.6.4.jar)
+  com.wynprice.secretroomsmod.core.SecretRoomsTransformer
+	GL info: ' Vendor: 'Intel' Version: '3.1.0 - Build 9.17.10.4459' Renderer: 'Intel(R) HD Graphics 3000'
+	Launched Version: Forge 1.12.2
+	LWJGL: 2.9.4
+	OpenGL: Intel(R) HD Graphics 3000 GL version 3.1.0 - Build 9.17.10.4459, Intel
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: vanilla, mod_resources, programer_art
+	Current Language: Русский (Россия)
+	Profiler Position: N/A (disabled)
+	CPU: 4x Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz

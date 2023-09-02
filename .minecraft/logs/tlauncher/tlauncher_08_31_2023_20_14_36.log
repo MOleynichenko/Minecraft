@@ -1,0 +1,96 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.89 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 31.08.2023 20:14:40
+Running folder C:\Users\julia\Desktop\pythone
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 16297 MB RAM
+java path=C:\Users\julia\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz
+ Intel(R) HD Graphics 3000, Intel(R) HD Graphics Family, 1664 MB, NVIDIA GeForce GT 520MX, GeForce GT 520MX, 9127 MB
+-------------------------------------------------------
+Selected locale: ru
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: https://repo.tlauncher.org/update/lch/release_update_2.3.json
+[Updater] Making request: https://repo.tlauncher.org/update/lch/release_update_2.3.json?version=2.89&client=0e25b944-8767-4c82-a3bd-e8bf34380bdf
+[Updater] Request time: 823 ms
+[Updater] Successfully requested from: https://repo.tlauncher.org/update/lch/release_update_2.3.json
+[Browser] Loading resources...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 47 / 196 MB
+Garbage collector completed: 24 / 242 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\julia\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\julia\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/pages/index_ru.html
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[AdvertisingStatusObserver]  finished to get add information
+save profiles
+[Loading] LOADING_WINDOW
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 266 ms.
+[JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/pages/index_ru.html during 1
+[Browser@1448221455] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/pages/index_ru.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Downloader2] Loaded configuration: good
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+Started! (12451 ms.)
+[Loading] SUCCESS
+[VersionManager] Refreshing versions remotely...
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new5/
+[TLauncher] show tlauncher!!!
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 607 ms.
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new5/skin/versions/
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new5/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 307 ms.
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 495 ms.
+[SkinVersionList] Got in 709 ms
+[ExtraVersionList] Got in 1750 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 1781 ms.
+[OfficialVersionList] Got in 2297 ms
+[VersionManager] Versions has been refreshed (4317 ms)
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 119 ms.
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 191 ms.
+java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+at java.net.TwoStacksPlainSocketImpl.socketBind(Native Method)
+at java.net.TwoStacksPlainSocketImpl.socketBind(TwoStacksPlainSocketImpl.java:133)
+at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:513)
+at java.net.TwoStacksPlainSocketImpl.bind(TwoStacksPlainSocketImpl.java:106)
+at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:180)
+at java.net.ServerSocket.bind(ServerSocket.java:375)
+at java.net.ServerSocket.<init>(ServerSocket.java:237)
+at java.net.ServerSocket.<init>(ServerSocket.java:181)
+at javax.net.ssl.SSLServerSocket.<init>(SSLServerSocket.java:136)
+at sun.security.ssl.SSLServerSocketImpl.<init>(SSLServerSocketImpl.java:70)
+at sun.security.ssl.SSLServerSocketFactoryImpl.createServerSocket(SSLServerSocketFactoryImpl.java:73)
+at org.tlauncher.tlauncher.site.play.SitePlay$1.run(SitePlay.java:66)
+at java.lang.Thread.run(Thread.java:748)
+
+run server on  42951
+[Double running] clear time label
+Good bye!
+[Double running] clear time label
+[TLauncherManager] before clearLibrary C:\Users\julia\AppData\Roaming\.minecraft\mods\1.12.2-SecurityCraft-v1.9.7.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Chisel-MC1.12.2-1.0.2.45.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\chiselsandbits_1.12.2_14.32.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\CTM-MC1.12.2-1.0.2.31.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\CustomNPCs_1.12.2_05Jul20.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Decocraft-2.6.3.7_1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\device_mod_0.4.1_1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\ExtraBitManipulation_1.12.2_3.4.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Furniture-Mod-6.3.2-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Locks-1.12.2-3.0.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\malisiscore-1.12.2-6.4.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\malisisdoors-1.12.2-7.3.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\mw_1.11.7.7_mc1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\obfuscate-0.4.2-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\pneumaticcraft_repressurized_1.12.2_0.11.15_398.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\PTRLib-1.0.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\redstonepaste_mc1.12_1.7.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\secretroomsmod_1.12.2_5.6.4.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\techguns_1.12.2_2.0.2.0_pre3.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\thutcore-1.12.2-5.19.8.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\thuttech-1.12.2-6.1.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\tlskincape_1.12.2-1.4.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\vehicle-mod-0.44.1-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\worldedit-mod-7.2.15-1.20.1.jar
+[TLauncherManager] C:\Users\julia\AppData\Roaming\.minecraft\mods\tlskincape_1.12.2-1.4.jar: Процесс не может получить доступ к файлу, так как этот файл занят другим процессом.
+
+[TLauncherManager] written:  ["C:\\Users\\julia\\AppData\\Roaming\\.minecraft\\mods\\tlskincape_1.12.2-1.4.jar"]
+[TLauncherManager] after clearLibrary C:\Users\julia\AppData\Roaming\.minecraft\mods\1.12.2-SecurityCraft-v1.9.7.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Chisel-MC1.12.2-1.0.2.45.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\chiselsandbits_1.12.2_14.32.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\CTM-MC1.12.2-1.0.2.31.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\CustomNPCs_1.12.2_05Jul20.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Decocraft-2.6.3.7_1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\device_mod_0.4.1_1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\ExtraBitManipulation_1.12.2_3.4.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Furniture-Mod-6.3.2-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\Locks-1.12.2-3.0.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\malisiscore-1.12.2-6.4.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\malisisdoors-1.12.2-7.3.0.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\mw_1.11.7.7_mc1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\obfuscate-0.4.2-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\pneumaticcraft_repressurized_1.12.2_0.11.15_398.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\PTRLib-1.0.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\redstonepaste_mc1.12_1.7.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\secretroomsmod_1.12.2_5.6.4.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\techguns_1.12.2_2.0.2.0_pre3.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\thutcore-1.12.2-5.19.8.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\thuttech-1.12.2-6.1.5.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\tlskincape_1.12.2-1.4.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\vehicle-mod-0.44.1-1.12.2.jar C:\Users\julia\AppData\Roaming\.minecraft\mods\worldedit-mod-7.2.15-1.20.1.jar
+flush now

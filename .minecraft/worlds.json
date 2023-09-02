@@ -1,0 +1,53 @@
+{
+  "worlds": [
+    {
+      "name": "Mods World",
+      "source": "C:\\Users\\julia\\AppData\\Roaming\\.minecraft\\saves\\Mods World",
+      "destination": "C:\\Users\\julia\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\Mods World",
+      "lastChanged": "2023-08-28T18:43:05",
+      "backup": false
+    },
+    {
+      "name": "ALTAY02",
+      "source": "C:\\Users\\julia\\AppData\\Roaming\\.minecraft\\saves\\ALTAY02",
+      "destination": "C:\\Users\\julia\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\ALTAY02",
+      "lastChanged": "2023-08-29T16:28:58",
+      "backup": false
+    },
+    {
+      "name": "Mods",
+      "source": "C:\\Users\\julia\\AppData\\Roaming\\.minecraft\\saves\\Mods",
+      "destination": "C:\\Users\\julia\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\Mods",
+      "lastChanged": "2023-08-31T15:08:08",
+      "backup": false
+    },
+    {
+      "name": "Generated World",
+      "source": "C:\\Users\\julia\\AppData\\Roaming\\.minecraft\\saves\\Generated World",
+      "destination": "C:\\Users\\julia\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\Generated World",
+      "lastChanged": "2023-08-29T17:43:40",
+      "backup": false
+    },
+    {
+      "name": "jetpacksnipers",
+      "source": "C:\\Users\\julia\\AppData\\Roaming\\.minecraft\\saves\\jetpacksnipers",
+      "destination": "C:\\Users\\julia\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\jetpacksnipers",
+      "lastChanged": "2023-08-30T19:11:14",
+      "backup": false
+    },
+    {
+      "name": "World Mods",
+      "source": "C:\\Users\\julia\\AppData\\Roaming\\.minecraft\\saves\\World Mods",
+      "destination": "C:\\Users\\julia\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\World Mods",
+      "lastChanged": "2023-08-31T19:22:51",
+      "backup": false
+    },
+    {
+      "name": "BananaMax_World",
+      "source": "C:\\Users\\julia\\AppData\\Roaming\\.minecraft\\saves\\BananaMax_World",
+      "destination": "C:\\Users\\julia\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\BananaMax_World",
+      "lastChanged": "2023-09-01T15:35:03",
+      "backup": false
+    }
+  ]
+}

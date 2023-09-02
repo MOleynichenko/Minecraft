@@ -1,0 +1,126 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  MalisisCorePlugin (malisiscore-1.12.2-6.4.0.jar)
+  NWRTweak (redstonepaste_mc1.12_1.7.5.jar)
+  CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  TLSkinCapeHookLoader (tlskincape_1.12-1.4.jar)
+Contact their authors BEFORE contacting forge
+
+// Surprise! Haha. Well, this is awkward.
+
+Time: 8/31/23 3:34 PM
+Description: Initializing game
+
+java.lang.NullPointerException: Initializing game
+	at net.minecraftforge.fml.common.versioning.ComparableVersion.parseVersion(ComparableVersion.java:371)
+	at net.minecraftforge.fml.common.versioning.ComparableVersion.<init>(ComparableVersion.java:362)
+	at net.minecraftforge.fml.common.versioning.DefaultArtifactVersion.<init>(DefaultArtifactVersion.java:31)
+	at net.minecraftforge.fml.common.versioning.DefaultArtifactVersion.<init>(DefaultArtifactVersion.java:42)
+	at net.minecraftforge.fml.common.FMLModContainer.getProcessedVersion(FMLModContainer.java:628)
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:235)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:547)
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:227)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:466)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:377)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at net.minecraftforge.fml.common.versioning.ComparableVersion.parseVersion(ComparableVersion.java:371)
+	at net.minecraftforge.fml.common.versioning.ComparableVersion.<init>(ComparableVersion.java:362)
+	at net.minecraftforge.fml.common.versioning.DefaultArtifactVersion.<init>(DefaultArtifactVersion.java:31)
+	at net.minecraftforge.fml.common.versioning.DefaultArtifactVersion.<init>(DefaultArtifactVersion.java:42)
+	at net.minecraftforge.fml.common.FMLModContainer.getProcessedVersion(FMLModContainer.java:628)
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:235)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:547)
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:227)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:466)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:377)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1031470504 bytes (983 MB) / 1509949440 bytes (1440 MB) up to 3154116608 bytes (3008 MB)
+	JVM Flags: 7 total; -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.40 Powered by Forge 14.21.1.2443 27 mods loaded, 27 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	U	minecraft{1.12} [Minecraft] (minecraft.jar) 
+	U	mcp{9.19} [Minecraft Coder Pack] (minecraft.jar) 
+	U	FML{8.0.99.99} [Forge Mod Loader] (forge-1.12-14.21.1.2443.jar) 
+	U	forge{14.21.1.2443} [Minecraft Forge] (forge-1.12-14.21.1.2443.jar) 
+	U	securitycraft{v1.9.7} [SecurityCraft] (1.12.2-SecurityCraft-v1.9.7.jar) 
+	U	chisel{null} [Chisel] (Chisel-MC1.12.2-1.0.2.45.jar) 
+	U	chiselsandbits{14.32} [Chisels & Bits] (chiselsandbits_1.12.2_14.32.jar) 
+	U	ctm{MC1.12.2-1.0.2.31} [CTM] (CTM-MC1.12.2-1.0.2.31.jar) 
+	U	customnpcs{1.12} [CustomNPCs] (CustomNPCs_1.12.2_05Jul20.jar) 
+	U	props{null} [Decocraft] (Decocraft-2.6.3.7_1.12.2.jar) 
+	U	cdm{0.4.1} [MrCrayfish's Device Mod] (device_mod_0.4.1_1.12.2.jar) 
+	U	extrabitmanipulation{1.12.2-3.4.0} [Extra Bit Manipulation] (ExtraBitManipulation_1.12.2_3.4.0.jar) 
+	U	cfm{6.3.0} [MrCrayfish's Furniture Mod] (Furniture-Mod-6.3.2-1.12.2.jar) 
+	U	locks{3.0.0} [Locks] (Locks-1.12.2-3.0.0.jar) 
+	U	malisiscore{1.12.2-6.4.0} [MalisisCore] (malisiscore-1.12.2-6.4.0.jar) 
+	U	malisisdoors{1.12.2-7.3.0} [MalisisDoors] (malisisdoors-1.12.2-7.3.0.jar) 
+	U	mw{1.11.7.7} [Modern Warfare] (mw_1.11.7.7_mc1.12.2.jar) 
+	U	pneumaticcraft{1.12.2-0.11.15-398} [PneumaticCraft: Repressurized] (pneumaticcraft_repressurized_1.12.2_0.11.15_398.jar) 
+	U	ptrmodellib{1.0.5} [ptrmodellib] (PTRLib-1.0.5.jar) 
+	U	redstonepaste{1.7.5} [Redstone Paste] (redstonepaste_mc1.12_1.7.5.jar) 
+	U	secretroomsmod{5.6.4} [Secret Rooms 5] (secretroomsmod_1.12.2_5.6.4.jar) 
+	U	techguns{null} [Techguns] (techguns_1.12.2_2.0.2.0_pre3.2.jar) 
+	U	thutcore_compat{1.0} [ThutCore Compat] (thutcore-1.12.2-5.19.8.jar) 
+	U	thutcore{5.19.8} [Thut Core] (thutcore-1.12.2-5.19.8.jar) 
+	U	thuttech{6.1.5} [Thut's Elevators] (thuttech-1.12.2-6.1.5.jar) 
+	U	tlauncher_custom_cape_skin{1.4} [TLSkinCape] (tlskincape_1.12-1.4.jar) 
+	U	vehicle{0.44.1} [MrCrayfish's Vehicle Mod] (vehicle-mod-0.44.1-1.12.2.jar) 
+	Loaded coremods (and transformers): 
+MalisisCorePlugin (malisiscore-1.12.2-6.4.0.jar)
+  
+NWRTweak (redstonepaste_mc1.12_1.7.5.jar)
+  net.fybertech.nwr.NWRTransformer
+CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+TLSkinCapeHookLoader (tlskincape_1.12-1.4.jar)
+  gloomyfolken.hooklib.minecraft.PrimaryClassTransformer
+	GL info: ' Vendor: 'Intel' Version: '3.1.0 - Build 9.17.10.4459' Renderer: 'Intel(R) HD Graphics 3000'
+	Launched Version: Forge 1.12
+	LWJGL: 2.9.4
+	OpenGL: Intel(R) HD Graphics 3000 GL version 3.1.0 - Build 9.17.10.4459, Intel
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: vanilla, mod_resources, programer_art
+	Current Language: Русский (Россия)
+	Profiler Position: N/A (disabled)
+	CPU: 4x Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz

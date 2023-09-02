@@ -1,0 +1,36 @@
+{
+  "clientToken": "7e981a9a-7e14-4201-91ca-b8769d095e80",
+  "accounts": {
+    "b6ac28e903e74480b4eb9468cc5390e6": {
+      "username": "BananaMax_Play",
+      "userID": "BananaMax_Play",
+      "displayName": "BananaMax_Play",
+      "uuid": "b6ac28e903e74480b4eb9468cc5390e6",
+      "type": "free",
+      "skinType": "tlauncher",
+      "premiumAccount": false
+    },
+    "35a83d4f2af711eea9a3f02f74958d22": {
+      "username": "BananaMax_Play",
+      "userID": "BananaMax_Play",
+      "displayName": "BananaMax_Play",
+      "accessToken": "355f00a3-7a75-4af3-9ea8-a332ee067e7c",
+      "uuid": "35a83d4f-2af7-11ee-a9a3-f02f74958d22",
+      "type": "tlauncher",
+      "skinType": "tlauncher",
+      "premiumAccount": false,
+      "profiles": [
+        {
+          "id": "35a83d4f-2af7-11ee-a9a3-f02f74958d22",
+          "name": "BananaMax_Play"
+        }
+      ],
+      "selectedProfile": {
+        "id": "35a83d4f-2af7-11ee-a9a3-f02f74958d22",
+        "name": "BananaMax_Play"
+      }
+    }
+  },
+  "selectedAccountUUID": "35a83d4f2af711eea9a3f02f74958d22",
+  "freeAccountUUID": "b6ac28e903e74480b4eb9468cc5390e6"
+}

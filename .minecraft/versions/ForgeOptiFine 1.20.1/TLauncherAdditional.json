@@ -1,0 +1,81 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "modsLibraries": [
+    {
+      "name": "optifine:OptiFine:1.20.1_HD_U_I5_pre9",
+      "artifact": {
+        "sha1": "cfd1146cf7fe15b3bd286b6de81699563ce0da07",
+        "size": 6606777,
+        "path": "optifine/OptiFine/1.20.1_HD_U_I5_pre9/OptiFine-1.20.1_HD_U_I5_pre9.jar",
+        "url": "http://res.tlauncher.org/unb/mods/23168711/11005068/OptiFine-1.20.1_HD_U_I5_pre9.jar"
+      }
+    }
+  ],
+  "additionalFiles": [
+    {
+      "sha1": "8c5a95cbce940cfdb304376ae9fea47968d02587",
+      "size": 10436626,
+      "path": "libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+    },
+    {
+      "sha1": "de86b035d2da0f78940796bb95c39a932ed84834",
+      "size": 12592249,
+      "path": "libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+    },
+    {
+      "sha1": "6c48521eed01fe2e8ecdadbd5ae348415f3c47da",
+      "size": 8001795,
+      "path": "libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-mappings.txt",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-mappings.txt"
+    },
+    {
+      "sha1": "3c8aa19b710a3a68f721210eb69b74594d13e218",
+      "size": 18842082,
+      "path": "libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+    },
+    {
+      "sha1": "cee936f83e440e63d16d96114d0a590586e5fa46",
+      "size": 2628271,
+      "path": "libraries/net/minecraftforge/forge/1.20.1-47.0.45/forge-1.20.1-47.0.45-universal.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.20.1-47.0.45/forge-1.20.1-47.0.45-universal.jar"
+    },
+    {
+      "sha1": "20d89239fbea9f72ffe46f67ceb585fe5986d826",
+      "size": 4726489,
+      "path": "libraries/net/minecraftforge/forge/1.20.1-47.0.45/forge-1.20.1-47.0.45-client.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.20.1-47.0.45/forge-1.20.1-47.0.45-client.jar"
+    },
+    {
+      "sha1": "487f2d1ac3a8a61ee5b9dd862fa8d1ce9242a68a",
+      "size": 117596,
+      "path": "libraries/net/minecraftforge/fmlcore/1.20.1-47.0.45/fmlcore-1.20.1-47.0.45.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/fmlcore/1.20.1-47.0.45/fmlcore-1.20.1-47.0.45.jar"
+    },
+    {
+      "sha1": "074afd8ce9f59dcc9600753d63de6dacfba2a269",
+      "size": 16377,
+      "path": "libraries/net/minecraftforge/javafmllanguage/1.20.1-47.0.45/javafmllanguage-1.20.1-47.0.45.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/javafmllanguage/1.20.1-47.0.45/javafmllanguage-1.20.1-47.0.45.jar"
+    },
+    {
+      "sha1": "0a4ab32d32b2b30d8b55385a18eb1b4350fd5507",
+      "size": 5003,
+      "path": "libraries/net/minecraftforge/mclanguage/1.20.1-47.0.45/mclanguage-1.20.1-47.0.45.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/mclanguage/1.20.1-47.0.45/mclanguage-1.20.1-47.0.45.jar"
+    },
+    {
+      "sha1": "1957feab24d361d653190672921a1bc0dca3f974",
+      "size": 7402,
+      "path": "libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.0.45/lowcodelanguage-1.20.1-47.0.45.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/lowcodelanguage/1.20.1-47.0.45/lowcodelanguage-1.20.1-47.0.45.jar"
+    }
+  ],
+  "tlauncherVersion": 0,
+  "source": "local_version_repo",
+  "skinVersion": false,
+  "updatedTime": "2023-06-11T16:25:54+04:00"
+}

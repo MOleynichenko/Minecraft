@@ -1,0 +1,18 @@
+option.ABOUT=§b製作者
+option.ABOUT.comment=§2Twitter : @MCH_YamaRin
+value.ABOUT.0=YamaRin
+value.ABOUT.1=使ってくれてありがとう(*'ω'*)
+
+option.TONEMAP=トーンマップ
+option.FOG=霧
+option.SKY=空
+option.CLOUDS=雲
+option.RAIN=雨の効果
+option.UNDERWATER=水中反射
+option.WAVE=草木、水の揺れ
+option.VANILLACLOUDS=バニラの雲
+option.SHADOWS=影
+option.LIGHT=光の色
+option.WATER=水面反射
+option.GLOWING_ORES=輝く鉱石
+option.sunPathRotation=太陽&月の角度

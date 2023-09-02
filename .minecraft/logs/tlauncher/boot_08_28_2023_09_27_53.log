@@ -1,0 +1,112 @@
+
+-------------------------------------------------------------------
+[Downloader2] Loaded configuration: normal
+[Downloader2] Files in queue 17
+[Downloader2] Starting download 17 files...
+[D#2] >  done http://res.tlauncher.org/b/libraries/com/google/guava/guava/19.0/guava-19.0.jar 
+[D#2] >  done http://res.tlauncher.org/b/libraries/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar 
+[D#2] >  done http://res.tlauncher.org/b/libraries/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar 
+[D#2] >  done http://res.tlauncher.org/b/libraries/log4j/log4j/1.2.17/log4j-1.2.17.jar 
+[D#2] >  done http://res.tlauncher.org/b/libraries/org/tukaani/xz/1.5/xz-1.5.jar 
+[D#2] >  done http://res.tlauncher.org/b/libraries/org/tlauncher/tlauncher-resource/1.4/tlauncher-resource-1.4.jar 
+[D#2] >  done http://res.tlauncher.org/b/libraries/com/github/junrar/junrar/0.7/junrar-0.7.jar 
+[D#2] >  done http://res.tlauncher.org/b/libraries/org/apache/httpcomponents/fluent-hc/4.5.13/fluent-hc-4.5.13.jar 
+[D#1] >  done http://res.tlauncher.org/b/client/jre/windows/jre-8u281-windows-x64.tar.gz 
+[D#1] >  done http://res.tlauncher.org/b/libraries/com/google/inject/guice/4.1.0/guice-4.1.0.jar 
+[D#1] >  done http://res.tlauncher.org/b/libraries/com/google/inject/extentions/guice-assistedinject/4.1.0/guice-assistedinject-4.1.0.jar 
+[D#1] >  done http://res.tlauncher.org/b/libraries/javax/inject/javax.inject/1/javax.inject-1.jar 
+[D#1] >  done http://res.tlauncher.org/b/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar 
+[D#1] >  done http://res.tlauncher.org/b/libraries/org/tlauncher/picture-bundle/3.71/picture-bundle-3.71.jar 
+[D#1] >  done http://res.tlauncher.org/b/libraries/org/tlauncher/skin-server-API/1.0/skin-server-API-1.0.jar 
+[D#1] >  done http://res.tlauncher.org/b/libraries/dnsjava/dnsjava/2.1.8/dnsjava-2.1.8.jar 
+[D#1] >  done http://res.tlauncher.org/b/libraries/org/apache/logging/log4j/log4j-core/2.14.1/log4j-core-2.14.1.jar 
+[Bootstrapper] createLauncher
+[Bootstrapper] choose jvm:C:\Users\julia\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+[Bootstrapper] validate files
+[Bootstrapper] end validated files
+[Bootstrapper] Starting launcher...
+[Double running] clear time label
+> Loading configuration from file: C:\Users\julia\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+> [Configuration] Constant values: {}
+> [Configuration] Key "free.partition.size" is invalid!
+> [Configuration] Key "max.time.for.backups" is invalid!
+> [Configuration] Key "minecraft.versions.sub.old_release" is invalid!
+> [Configuration] Key "gui.notice.ad_server" is invalid!
+> [Configuration] Key "gui.settings.servers.recommendation" is invalid!
+> [Configuration] Key "gui.statistics.checkbox" is invalid!
+> [Configuration] Key "skip.user.backup" is invalid!
+> [Configuration] Key "minecraft.versions.sub.remote" is invalid!
+> [Configuration] Key "gui.console.height" is invalid!
+> [Configuration] Key "minecraft.versions.modified" is invalid!
+> [Configuration] Key "gui.console.x" is invalid!
+> [Configuration] Key "gui.settings.guard.checkbox" is invalid!
+> [Configuration] Key "gui.console.y" is invalid!
+> [Configuration] Key "client" is invalid!
+> [Configuration] Key "connection" is invalid!
+> [Configuration] Key "minecraft.fullscreen" is invalid!
+> [Configuration] Key "minecraft.versions.release" is invalid!
+> [Configuration] Key "minecraft.onlaunch" is invalid!
+> [Configuration] Key "max.size.for.world" is invalid!
+> [Configuration] Key "repeat.backup.hours" is invalid!
+> [Configuration] Key "gui.notice.ad_other" is invalid!
+> [Configuration] Key "minecraft.gamedir" is invalid!
+> [Configuration] Key "gui.console.width" is invalid!
+> [Configuration] Key "minecraft.memory.ram2" is invalid!
+> [Configuration] Key "gui.console" is invalid!
+> [Configuration] Key "minecraft.size" is invalid!
+> [Configuration] Key "gui.notice.ad_youtube" is invalid!
+> [Loading] INITIALIZING
+> Starting TLauncher 2.89 RELEASE
+> For more information, visit https://tlauncher.org/
+> Startup time: 28.08.2023 13:28:39
+> Running folder C:\Users\julia\Desktop
+> ---
+> [Loading] LOADING_CONFIGURATION
+> Machine info: -------------------------------------------------------
+> Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 16297 MB RAM
+> java path=C:\Users\julia\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+> -------------------------------------------------------
+> Selected locale: ru
+> [Loading] LOADING_CONSOLE
+> [Downloader2] Loaded configuration: good
+> [Updater] Requesting an update...
+> [Updater] Requesting from: https://repo.tlauncher.org/update/lch/release_update_2.3.json
+> [Updater] Making request: https://repo.tlauncher.org/update/lch/release_update_2.3.json?version=2.89&client=0e25b944-8767-4c82-a3bd-e8bf34380bdf
+> [Browser] Loading resources...
+> [Updater] Request time: 446 ms
+> [Updater] Successfully requested from: https://repo.tlauncher.org/update/lch/release_update_2.3.json
+> [Browser] Cleaning up after loading:
+> Starting garbage collector: 45 / 194 MB
+> Garbage collector completed: 21 / 233 MB
+> [Loading] LOADING_MANAGERS
+> [LocalVersionList] Base directory: C:\Users\julia\AppData\Roaming\.minecraft
+> [ProfileManager] Refreshing profiles from: C:\Users\julia\AppData\Roaming\.minecraft\TlauncherProfiles.json
+> file not exist TlauncherProfiles.json
+> [AdvertisingStatusObserver]  started to get ad information
+> [AdvertisingStatusObserver]  finished to get add information
+> save profiles
+> [GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+> [Loading] LOADING_WINDOW
+> [Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+> [Loading] PREPARING_MAINPANE
+> [REPO][SERVER_LIST_REPO] Success: Reached the repo in 225 ms.
+> [JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/pages/index_ru.html
+> [Browser] Running in JavaFX Thread
+> [Browser] Preparing JavaFX...
+> [Browser] Initializing...
+> [JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/pages/index_ru.html during 1
+> [Browser@739468990] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/pages/index_ru.html"
+> [Browser] add listens into server_choose
+> [Browser] finished listens into server_choose
+> [Downloader2] Loaded configuration: good
+> [Loading] POSTINIT_GUI
+> [Frame] Packing main frame...
+> [Frame] Resizing main pane...
+> Updater is already closed. Showing up...
+> Visibility set.
+> [Loading] REFRESHING_INFO
+> [VersionManager] Refreshing versions remotely...
+> [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new5/
+> Started! (7512 ms.)
+> [Loading] SUCCESS
+[Bootstrapper] I can be terminated now: 0
